@@ -1,0 +1,892 @@
+[INFO][2022-01-05 17:35:58,042] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 17:35:58,042] :  * Restarting with stat
+[WARNING][2022-01-05 17:35:59,195] :  * Debugger is active!
+[INFO][2022-01-05 17:35:59,216] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-05 17:36:00,109] : Create user directory request from : test33334
+[WARNING][2022-01-05 17:36:00,110] : User directory already exists : test33334
+[INFO][2022-01-05 17:36:00,111] : 127.0.0.1 - - [05/Jan/2022 17:36:00] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 17:36:00,121] : Request From : test33334
+[INFO][2022-01-05 17:36:10,035] : Successfully finished work : test33334
+[INFO][2022-01-05 17:36:10,048] : 127.0.0.1 - - [05/Jan/2022 17:36:10] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 17:38:24,908] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-05 17:38:25,325] :  * Restarting with stat
+[INFO][2022-01-05 19:38:17,003] : 127.0.0.1 - - [05/Jan/2022 19:38:17] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:38:17,122] : Create user directory request from : 2f52e54d-4b6b-458e-8545-2eaa7f8ea74e
+[INFO][2022-01-05 19:38:17,134] : User directory successfully created : 2f52e54d-4b6b-458e-8545-2eaa7f8ea74e
+[INFO][2022-01-05 19:38:17,135] : 127.0.0.1 - - [05/Jan/2022 19:38:17] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:38:31,432] : 127.0.0.1 - - [05/Jan/2022 19:38:31] "OPTIONS / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:38:31,437] : 127.0.0.1 - - [05/Jan/2022 19:38:31] "POST / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:39:26,132] : 127.0.0.1 - - [05/Jan/2022 19:39:26] "OPTIONS / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:39:26,136] : 127.0.0.1 - - [05/Jan/2022 19:39:26] "POST / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:41:12,429] : 127.0.0.1 - - [05/Jan/2022 19:41:12] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:41:12,431] : Create user directory request from : 65378d83-3c07-4508-95d9-cf43edb9e460
+[INFO][2022-01-05 19:41:12,440] : User directory successfully created : 65378d83-3c07-4508-95d9-cf43edb9e460
+[INFO][2022-01-05 19:41:12,441] : 127.0.0.1 - - [05/Jan/2022 19:41:12] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:41:16,869] : Create user directory request from : f841d35a-f5d3-4cd7-8097-c3626dbed71a
+[INFO][2022-01-05 19:41:16,880] : User directory successfully created : f841d35a-f5d3-4cd7-8097-c3626dbed71a
+[INFO][2022-01-05 19:41:16,881] : 127.0.0.1 - - [05/Jan/2022 19:41:16] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:41:37,619] : 127.0.0.1 - - [05/Jan/2022 19:41:37] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:41:37,623] : Create user directory request from : 856f0c54-20eb-47ca-9748-59a6af5b226f
+[INFO][2022-01-05 19:41:37,631] : User directory successfully created : 856f0c54-20eb-47ca-9748-59a6af5b226f
+[INFO][2022-01-05 19:41:37,632] : 127.0.0.1 - - [05/Jan/2022 19:41:37] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:41:41,101] : Create user directory request from : 2b41ff70-b4d8-407e-94a0-47fb1216f759
+[INFO][2022-01-05 19:41:41,111] : User directory successfully created : 2b41ff70-b4d8-407e-94a0-47fb1216f759
+[INFO][2022-01-05 19:41:41,112] : 127.0.0.1 - - [05/Jan/2022 19:41:41] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:43:15,447] : 127.0.0.1 - - [05/Jan/2022 19:43:15] "OPTIONS / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:43:15,451] : 127.0.0.1 - - [05/Jan/2022 19:43:15] "POST / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:43:23,611] : 127.0.0.1 - - [05/Jan/2022 19:43:23] "OPTIONS / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:43:23,615] : 127.0.0.1 - - [05/Jan/2022 19:43:23] "POST / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:43:53,345] : 127.0.0.1 - - [05/Jan/2022 19:43:53] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:43:53,348] : Create user directory request from : c4843ead-1271-4942-b34e-af77f207df89
+[INFO][2022-01-05 19:43:53,358] : User directory successfully created : c4843ead-1271-4942-b34e-af77f207df89
+[INFO][2022-01-05 19:43:53,359] : 127.0.0.1 - - [05/Jan/2022 19:43:53] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:44:03,022] : 127.0.0.1 - - [05/Jan/2022 19:44:03] "OPTIONS / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:44:03,025] : 127.0.0.1 - - [05/Jan/2022 19:44:03] "POST / HTTP/1.1" 200 -
+[INFO][2022-01-05 19:44:38,998] : 127.0.0.1 - - [05/Jan/2022 19:44:38] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:44:39,001] : Create user directory request from : a61302dc-9de7-45c2-a42e-e96ec942500a
+[INFO][2022-01-05 19:44:39,012] : User directory successfully created : a61302dc-9de7-45c2-a42e-e96ec942500a
+[INFO][2022-01-05 19:44:39,013] : 127.0.0.1 - - [05/Jan/2022 19:44:39] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:44:52,864] : 127.0.0.1 - - [05/Jan/2022 19:44:52] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 19:44:52,868] : Request From : a61302dc-9de7-45c2-a42e-e96ec942500a
+[ERROR][2022-01-05 19:44:52,869] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 274, in tryon
+    Image_Preprocessing.save_decoded_image(requests['uploaded_cloth'], cloth_image_path)    # 디코딩 된 이미지가 ../user_requests/{uid}/cloth/custom_cloth.jpg 로 저장됨.
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 121, in save_decoded_image
+    f.write(base64.b64decode(encoded_image))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+[INFO][2022-01-05 19:44:52,872] : 127.0.0.1 - - [05/Jan/2022 19:44:52] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 19:46:00,581] : 127.0.0.1 - - [05/Jan/2022 19:46:00] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:46:00,585] : Create user directory request from : 30b13b4b-a900-47da-bcb6-42643bd59d99
+[INFO][2022-01-05 19:46:00,595] : User directory successfully created : 30b13b4b-a900-47da-bcb6-42643bd59d99
+[INFO][2022-01-05 19:46:00,596] : 127.0.0.1 - - [05/Jan/2022 19:46:00] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:46:15,522] : 127.0.0.1 - - [05/Jan/2022 19:46:15] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 19:46:15,526] : Request From : 30b13b4b-a900-47da-bcb6-42643bd59d99
+[ERROR][2022-01-05 19:46:15,528] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 274, in tryon
+    Image_Preprocessing.save_decoded_image(requests['uploaded_cloth'], cloth_image_path)    # 디코딩 된 이미지가 ../user_requests/{uid}/cloth/custom_cloth.jpg 로 저장됨.
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 121, in save_decoded_image
+    f.write(base64.b64decode(encoded_image))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+[INFO][2022-01-05 19:46:15,529] : 127.0.0.1 - - [05/Jan/2022 19:46:15] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 19:58:12,795] : 127.0.0.1 - - [05/Jan/2022 19:58:12] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:58:12,798] : Create user directory request from : a17dbcdc-f2bc-4923-b27a-256792dec086
+[INFO][2022-01-05 19:58:12,809] : User directory successfully created : a17dbcdc-f2bc-4923-b27a-256792dec086
+[INFO][2022-01-05 19:58:12,810] : 127.0.0.1 - - [05/Jan/2022 19:58:12] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 19:58:34,081] : 127.0.0.1 - - [05/Jan/2022 19:58:34] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 19:58:34,085] : Request From : a17dbcdc-f2bc-4923-b27a-256792dec086
+[ERROR][2022-01-05 19:58:34,087] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 274, in tryon
+    Image_Preprocessing.save_decoded_image(requests['uploaded_cloth'], cloth_image_path)    # 디코딩 된 이미지가 ../user_requests/{uid}/cloth/custom_cloth.jpg 로 저장됨.
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 121, in save_decoded_image
+    f.write(base64.b64decode(encoded_image))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Invalid base64-encoded string: number of data characters (73545) cannot be 1 more than a multiple of 4
+[INFO][2022-01-05 19:58:34,088] : 127.0.0.1 - - [05/Jan/2022 19:58:34] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 20:01:17,792] : 127.0.0.1 - - [05/Jan/2022 20:01:17] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:01:17,796] : Create user directory request from : 145fba48-45b8-4c2a-a862-824bf7056412
+[INFO][2022-01-05 20:01:17,807] : User directory successfully created : 145fba48-45b8-4c2a-a862-824bf7056412
+[INFO][2022-01-05 20:01:17,808] : 127.0.0.1 - - [05/Jan/2022 20:01:17] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:01:29,508] : 127.0.0.1 - - [05/Jan/2022 20:01:29] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:01:29,512] : Request From : 145fba48-45b8-4c2a-a862-824bf7056412
+[ERROR][2022-01-05 20:01:29,513] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 274, in tryon
+    Image_Preprocessing.save_decoded_image(requests['uploaded_cloth'], cloth_image_path)    # 디코딩 된 이미지가 ../user_requests/{uid}/cloth/custom_cloth.jpg 로 저장됨.
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 121, in save_decoded_image
+    f.write(base64.b64decode(encoded_image))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+[INFO][2022-01-05 20:01:29,515] : 127.0.0.1 - - [05/Jan/2022 20:01:29] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 20:01:38,139] : 127.0.0.1 - - [05/Jan/2022 20:01:38] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:01:38,142] : Create user directory request from : da033e84-daa3-43e4-b4e6-08a99e51778a
+[INFO][2022-01-05 20:01:38,152] : User directory successfully created : da033e84-daa3-43e4-b4e6-08a99e51778a
+[INFO][2022-01-05 20:01:38,153] : 127.0.0.1 - - [05/Jan/2022 20:01:38] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:01:49,955] : 127.0.0.1 - - [05/Jan/2022 20:01:49] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:01:49,960] : Request From : da033e84-daa3-43e4-b4e6-08a99e51778a
+[ERROR][2022-01-05 20:01:49,961] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 274, in tryon
+    Image_Preprocessing.save_decoded_image(requests['uploaded_cloth'], cloth_image_path)    # 디코딩 된 이미지가 ../user_requests/{uid}/cloth/custom_cloth.jpg 로 저장됨.
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 121, in save_decoded_image
+    f.write(base64.b64decode(encoded_image))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+[INFO][2022-01-05 20:01:49,963] : 127.0.0.1 - - [05/Jan/2022 20:01:49] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 20:02:36,247] : 127.0.0.1 - - [05/Jan/2022 20:02:36] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:02:36,250] : Create user directory request from : 5e6c410b-7359-467e-880f-ab4e850618f7
+[INFO][2022-01-05 20:02:36,258] : User directory successfully created : 5e6c410b-7359-467e-880f-ab4e850618f7
+[INFO][2022-01-05 20:02:36,259] : 127.0.0.1 - - [05/Jan/2022 20:02:36] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:02:52,580] : 127.0.0.1 - - [05/Jan/2022 20:02:52] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:02:52,584] : Request From : 5e6c410b-7359-467e-880f-ab4e850618f7
+[ERROR][2022-01-05 20:02:52,585] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 274, in tryon
+    Image_Preprocessing.save_decoded_image(requests['uploaded_cloth'], cloth_image_path)    # 디코딩 된 이미지가 ../user_requests/{uid}/cloth/custom_cloth.jpg 로 저장됨.
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py", line 121, in save_decoded_image
+    f.write(base64.b64decode(encoded_image))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+[INFO][2022-01-05 20:02:52,586] : 127.0.0.1 - - [05/Jan/2022 20:02:52] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 20:03:44,604] : 127.0.0.1 - - [05/Jan/2022 20:03:44] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:03:44,609] : Create user directory request from : 6ff9331e-561a-4a5f-9a49-58e916fd7c5e
+[INFO][2022-01-05 20:03:44,619] : User directory successfully created : 6ff9331e-561a-4a5f-9a49-58e916fd7c5e
+[INFO][2022-01-05 20:03:44,620] : 127.0.0.1 - - [05/Jan/2022 20:03:44] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:05:00,149] : 127.0.0.1 - - [05/Jan/2022 20:05:00] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:05:00,152] : Create user directory request from : 0bfd01ae-70f0-4669-8707-8bb41040314e
+[INFO][2022-01-05 20:05:00,163] : User directory successfully created : 0bfd01ae-70f0-4669-8707-8bb41040314e
+[INFO][2022-01-05 20:05:00,164] : 127.0.0.1 - - [05/Jan/2022 20:05:00] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:06:03,866] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 20:06:07,140] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 20:07:03,460] : 127.0.0.1 - - [05/Jan/2022 20:07:03] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:07:03,463] : Create user directory request from : 63bd15eb-8989-46ed-b607-071ad4b2594c
+[INFO][2022-01-05 20:07:03,474] : User directory successfully created : 63bd15eb-8989-46ed-b607-071ad4b2594c
+[INFO][2022-01-05 20:07:03,476] : 127.0.0.1 - - [05/Jan/2022 20:07:03] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:07:16,765] : 127.0.0.1 - - [05/Jan/2022 20:07:16] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:07:16,769] : Request From : 63bd15eb-8989-46ed-b607-071ad4b2594c
+[ERROR][2022-01-05 20:07:16,770] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "server_execute.py", line 275, in tryon
+    Image_Preprocessing.save_decoded_image(requests['uploaded_model'], model_image_path)    # 디코딩 된 이미지가 ../user_requests/{uid}/cloth/custom_model.png 로 저장됨.
+  File "server_execute.py", line 121, in save_decoded_image
+    f.write(base64.b64decode(encoded_image))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/base64.py", line 87, in b64decode
+    return binascii.a2b_base64(s)
+binascii.Error: Incorrect padding
+[INFO][2022-01-05 20:07:16,773] : 127.0.0.1 - - [05/Jan/2022 20:07:16] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 20:08:36,806] : 127.0.0.1 - - [05/Jan/2022 20:08:36] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:08:36,810] : Request From : 63bd15eb-8989-46ed-b607-071ad4b2594c
+[INFO][2022-01-05 20:08:39,662] : Request From : 63bd15eb-8989-46ed-b607-071ad4b2594c
+[INFO][2022-01-05 20:08:41,388] : 127.0.0.1 - - [05/Jan/2022 20:08:41] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:08:41,392] : Create user directory request from : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:08:41,405] : User directory successfully created : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:08:41,406] : 127.0.0.1 - - [05/Jan/2022 20:08:41] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:08:50,827] : Successfully finished work : 63bd15eb-8989-46ed-b607-071ad4b2594c
+[INFO][2022-01-05 20:08:50,852] : 127.0.0.1 - - [05/Jan/2022 20:08:50] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:08:54,630] : 127.0.0.1 - - [05/Jan/2022 20:08:54] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:08:54,634] : Request From : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:08:56,840] : Request From : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:08:57,045] : Request From : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:08:57,209] : Request From : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:08:57,412] : Request From : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:08:57,635] : Request From : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:09:07,464] : Successfully finished work : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:09:07,502] : 127.0.0.1 - - [05/Jan/2022 20:09:07] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:09:11,663] : Successfully finished work : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:09:11,691] : 127.0.0.1 - - [05/Jan/2022 20:09:11] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:09:18,047] : Successfully finished work : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:09:18,091] : 127.0.0.1 - - [05/Jan/2022 20:09:18] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:09:18,137] : Successfully finished work : e141ed9f-5d6c-4570-b5cd-bdb59795af5c
+[INFO][2022-01-05 20:09:18,158] : 127.0.0.1 - - [05/Jan/2022 20:09:18] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 20:14:25,083] : 127.0.0.1 - - [05/Jan/2022 20:14:25] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:14:25,087] : Create user directory request from : f7d30619-23ef-41a8-afa2-9700b297b36f
+[INFO][2022-01-05 20:14:25,097] : User directory successfully created : f7d30619-23ef-41a8-afa2-9700b297b36f
+[INFO][2022-01-05 20:14:25,098] : 127.0.0.1 - - [05/Jan/2022 20:14:25] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:15:04,654] : 127.0.0.1 - - [05/Jan/2022 20:15:04] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 20:15:04,657] : Create user directory request from : bbe4f927-55ee-4364-8361-ef91b0a8eec6
+[INFO][2022-01-05 20:15:04,666] : User directory successfully created : bbe4f927-55ee-4364-8361-ef91b0a8eec6
+[INFO][2022-01-05 20:15:04,667] : 127.0.0.1 - - [05/Jan/2022 20:15:04] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:13:46,612] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:13:46,613] : User directory already exists : test33334
+[INFO][2022-01-05 21:13:46,614] : 127.0.0.1 - - [05/Jan/2022 21:13:46] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:13:46,621] : Request From : test33334
+[INFO][2022-01-05 21:13:55,323] : Successfully finished work : test33334
+[INFO][2022-01-05 21:13:55,338] : 127.0.0.1 - - [05/Jan/2022 21:13:55] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:15:22,862] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:15:22,862] : User directory already exists : test33334
+[INFO][2022-01-05 21:15:22,863] : 127.0.0.1 - - [05/Jan/2022 21:15:22] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:15:22,871] : Request From : test33334
+[INFO][2022-01-05 21:15:32,022] : Successfully finished work : test33334
+[INFO][2022-01-05 21:15:32,042] : 127.0.0.1 - - [05/Jan/2022 21:15:32] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:16:01,784] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:16:05,846] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:16:05,847] : User directory already exists : test33334
+[INFO][2022-01-05 21:16:05,848] : 127.0.0.1 - - [05/Jan/2022 21:16:05] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:16:05,857] : Request From : test33334
+[ERROR][2022-01-05 21:16:16,710] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:16:16,713] : 127.0.0.1 - - [05/Jan/2022 21:16:16] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:16:56,506] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:16:57,633] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:16:57,634] : User directory already exists : test33334
+[INFO][2022-01-05 21:16:57,635] : 127.0.0.1 - - [05/Jan/2022 21:16:57] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:16:57,641] : Request From : test33334
+[ERROR][2022-01-05 21:17:08,410] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:17:08,414] : 127.0.0.1 - - [05/Jan/2022 21:17:08] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:18:20,834] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:18:20,834] : User directory already exists : test33334
+[INFO][2022-01-05 21:18:20,835] : 127.0.0.1 - - [05/Jan/2022 21:18:20] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:18:20,841] : Request From : test33334
+[ERROR][2022-01-05 21:18:29,553] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:18:29,556] : 127.0.0.1 - - [05/Jan/2022 21:18:29] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:18:34,854] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:18:38,720] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:18:38,721] : User directory already exists : test33334
+[INFO][2022-01-05 21:18:38,722] : 127.0.0.1 - - [05/Jan/2022 21:18:38] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:18:38,728] : Request From : test33334
+[ERROR][2022-01-05 21:18:49,545] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:18:49,548] : 127.0.0.1 - - [05/Jan/2022 21:18:49] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:20:12,943] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:20:12,943] : User directory already exists : test33334
+[INFO][2022-01-05 21:20:12,944] : 127.0.0.1 - - [05/Jan/2022 21:20:12] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:20:12,952] : Request From : test33334
+[ERROR][2022-01-05 21:20:21,922] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:20:21,925] : 127.0.0.1 - - [05/Jan/2022 21:20:21] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:20:31,495] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:20:31,761] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:20:31,761] : User directory already exists : test33334
+[INFO][2022-01-05 21:20:31,764] : 127.0.0.1 - - [05/Jan/2022 21:20:31] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:20:31,770] : Request From : test33334
+[ERROR][2022-01-05 21:20:42,818] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:20:42,822] : 127.0.0.1 - - [05/Jan/2022 21:20:42] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:21:31,388] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:21:32,724] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:21:32,724] : User directory already exists : test33334
+[INFO][2022-01-05 21:21:32,726] : 127.0.0.1 - - [05/Jan/2022 21:21:32] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:21:32,734] : Request From : test33334
+[ERROR][2022-01-05 21:21:44,807] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:21:44,812] : 127.0.0.1 - - [05/Jan/2022 21:21:44] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:22:59,899] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:23:01,140] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:23:01,140] : User directory already exists : test33334
+[INFO][2022-01-05 21:23:01,141] : 127.0.0.1 - - [05/Jan/2022 21:23:01] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:23:01,147] : Request From : test33334
+[ERROR][2022-01-05 21:23:12,563] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:23:12,569] : 127.0.0.1 - - [05/Jan/2022 21:23:12] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:24:25,742] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:24:27,108] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:24:27,108] : User directory already exists : test33334
+[INFO][2022-01-05 21:24:27,111] : 127.0.0.1 - - [05/Jan/2022 21:24:27] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:24:27,117] : Request From : test33334
+[ERROR][2022-01-05 21:24:38,593] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:24:38,598] : 127.0.0.1 - - [05/Jan/2022 21:24:38] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:25:11,959] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:25:11,959] : User directory already exists : test33334
+[INFO][2022-01-05 21:25:11,960] : 127.0.0.1 - - [05/Jan/2022 21:25:11] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:25:11,967] : Request From : test33334
+[ERROR][2022-01-05 21:25:21,624] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:25:21,629] : 127.0.0.1 - - [05/Jan/2022 21:25:21] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:26:53,055] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:26:53,469] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:26:53,469] : User directory already exists : test33334
+[INFO][2022-01-05 21:26:53,472] : 127.0.0.1 - - [05/Jan/2022 21:26:53] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:26:53,480] : Request From : test33334
+[ERROR][2022-01-05 21:27:05,908] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:27:05,911] : 127.0.0.1 - - [05/Jan/2022 21:27:05] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:31:37,501] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:31:40,745] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:31:40,745] : User directory already exists : test33334
+[INFO][2022-01-05 21:31:40,747] : 127.0.0.1 - - [05/Jan/2022 21:31:40] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:31:40,756] : Request From : test33334
+[ERROR][2022-01-05 21:31:51,098] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:31:51,101] : 127.0.0.1 - - [05/Jan/2022 21:31:51] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:32:56,781] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:32:57,842] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:32:57,843] : User directory already exists : test33334
+[INFO][2022-01-05 21:32:57,845] : 127.0.0.1 - - [05/Jan/2022 21:32:57] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:32:57,857] : Request From : test33334
+[ERROR][2022-01-05 21:33:09,740] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:33:09,743] : 127.0.0.1 - - [05/Jan/2022 21:33:09] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:34:12,250] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:34:12,250] : User directory already exists : test33334
+[INFO][2022-01-05 21:34:12,251] : 127.0.0.1 - - [05/Jan/2022 21:34:12] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:34:12,256] : Request From : test33334
+[ERROR][2022-01-05 21:34:21,112] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:34:21,114] : 127.0.0.1 - - [05/Jan/2022 21:34:21] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:34:36,342] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:34:36,343] : User directory already exists : test33334
+[INFO][2022-01-05 21:34:36,343] : 127.0.0.1 - - [05/Jan/2022 21:34:36] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:34:36,350] : Request From : test33334
+[ERROR][2022-01-05 21:34:45,052] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:34:45,057] : 127.0.0.1 - - [05/Jan/2022 21:34:45] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:36:28,359] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:36:28,360] : User directory already exists : test33334
+[INFO][2022-01-05 21:36:28,361] : 127.0.0.1 - - [05/Jan/2022 21:36:28] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:36:28,370] : Request From : test33334
+[ERROR][2022-01-05 21:36:37,061] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:36:37,064] : 127.0.0.1 - - [05/Jan/2022 21:36:37] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:36:48,425] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:36:48,607] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:36:48,607] : User directory already exists : test33334
+[INFO][2022-01-05 21:36:48,608] : 127.0.0.1 - - [05/Jan/2022 21:36:48] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:36:48,616] : Request From : test33334
+[ERROR][2022-01-05 21:37:00,231] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:37:00,235] : 127.0.0.1 - - [05/Jan/2022 21:37:00] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:37:17,349] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:37:17,594] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:37:17,594] : User directory already exists : test33334
+[INFO][2022-01-05 21:37:17,596] : 127.0.0.1 - - [05/Jan/2022 21:37:17] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:37:17,602] : Request From : test33334
+[ERROR][2022-01-05 21:37:28,948] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:37:28,951] : 127.0.0.1 - - [05/Jan/2022 21:37:28] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:38:12,340] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:38:12,340] : User directory already exists : test33334
+[INFO][2022-01-05 21:38:12,341] : 127.0.0.1 - - [05/Jan/2022 21:38:12] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:38:12,351] : Request From : test33334
+[ERROR][2022-01-05 21:38:21,321] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:38:21,324] : 127.0.0.1 - - [05/Jan/2022 21:38:21] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:38:26,703] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:38:28,249] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:38:28,249] : User directory already exists : test33334
+[INFO][2022-01-05 21:38:28,252] : 127.0.0.1 - - [05/Jan/2022 21:38:28] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:38:28,259] : Request From : test33334
+[ERROR][2022-01-05 21:38:40,011] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:38:40,014] : 127.0.0.1 - - [05/Jan/2022 21:38:40] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:39:12,583] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:39:13,208] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:39:13,208] : User directory already exists : test33334
+[INFO][2022-01-05 21:39:13,210] : 127.0.0.1 - - [05/Jan/2022 21:39:13] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:39:13,215] : Request From : test33334
+[ERROR][2022-01-05 21:39:24,735] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:39:24,739] : 127.0.0.1 - - [05/Jan/2022 21:39:24] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:40:24,322] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:40:25,421] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:40:25,421] : User directory already exists : test33334
+[INFO][2022-01-05 21:40:25,423] : 127.0.0.1 - - [05/Jan/2022 21:40:25] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:40:25,430] : Request From : test33334
+[INFO][2022-01-05 21:40:38,259] : Successfully finished work : test33334
+[INFO][2022-01-05 21:40:38,288] : 127.0.0.1 - - [05/Jan/2022 21:40:38] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:44:54,863] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:44:56,886] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:44:56,887] : User directory already exists : test33334
+[INFO][2022-01-05 21:44:56,888] : 127.0.0.1 - - [05/Jan/2022 21:44:56] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:44:56,898] : Request From : test33334
+[ERROR][2022-01-05 21:45:08,816] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:45:08,822] : 127.0.0.1 - - [05/Jan/2022 21:45:08] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:52:00,575] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:52:00,575] : User directory already exists : test33334
+[INFO][2022-01-05 21:52:00,576] : 127.0.0.1 - - [05/Jan/2022 21:52:00] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:52:00,587] : Request From : test33334
+[ERROR][2022-01-05 21:52:10,411] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:52:10,419] : 127.0.0.1 - - [05/Jan/2022 21:52:10] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:52:16,741] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:52:17,506] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:52:17,506] : User directory already exists : test33334
+[INFO][2022-01-05 21:52:17,508] : 127.0.0.1 - - [05/Jan/2022 21:52:17] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:52:17,517] : Request From : test33334
+[ERROR][2022-01-05 21:52:28,562] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:52:28,566] : 127.0.0.1 - - [05/Jan/2022 21:52:28] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:53:57,963] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:53:58,268] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:53:58,268] : User directory already exists : test33334
+[INFO][2022-01-05 21:53:58,270] : 127.0.0.1 - - [05/Jan/2022 21:53:58] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:53:58,279] : Request From : test33334
+[ERROR][2022-01-05 21:54:11,233] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:54:11,238] : 127.0.0.1 - - [05/Jan/2022 21:54:11] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:55:57,069] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:55:57,622] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:55:57,622] : User directory already exists : test33334
+[INFO][2022-01-05 21:55:57,624] : 127.0.0.1 - - [05/Jan/2022 21:55:57] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:55:57,632] : Request From : test33334
+[ERROR][2022-01-05 21:56:09,428] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:56:09,433] : 127.0.0.1 - - [05/Jan/2022 21:56:09] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:56:58,227] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:56:59,558] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:56:59,558] : User directory already exists : test33334
+[INFO][2022-01-05 21:56:59,560] : 127.0.0.1 - - [05/Jan/2022 21:56:59] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:56:59,565] : Request From : test33334
+[ERROR][2022-01-05 21:57:10,186] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:57:10,190] : 127.0.0.1 - - [05/Jan/2022 21:57:10] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:57:49,983] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:57:50,842] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:57:50,843] : User directory already exists : test33334
+[INFO][2022-01-05 21:57:50,844] : 127.0.0.1 - - [05/Jan/2022 21:57:50] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:57:50,851] : Request From : test33334
+[ERROR][2022-01-05 21:58:02,522] : Error : 12 : Error occured while execute DRM/MTM/TFM models
+[INFO][2022-01-05 21:58:02,525] : 127.0.0.1 - - [05/Jan/2022 21:58:02] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 21:58:34,989] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:58:35,209] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:58:35,210] : User directory already exists : test33334
+[INFO][2022-01-05 21:58:35,211] : 127.0.0.1 - - [05/Jan/2022 21:58:35] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:58:35,218] : Request From : test33334
+[ERROR][2022-01-05 21:58:45,957] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "server_execute.py", line 323, in tryon
+    rgbd2pcd.run(results_dir)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 159, in run
+    depth2point(fd, bd, rgb, rgb_back, parse_shape=parse_shape, label='pred', out_fn=point_out_fn)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 66, in depth2point
+    file.write('''ply
+TypeError: a bytes-like object is required, not 'str'
+[INFO][2022-01-05 21:58:45,960] : 127.0.0.1 - - [05/Jan/2022 21:58:45] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 21:59:10,385] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 21:59:12,787] : Create user directory request from : test33334
+[WARNING][2022-01-05 21:59:12,788] : User directory already exists : test33334
+[INFO][2022-01-05 21:59:12,789] : 127.0.0.1 - - [05/Jan/2022 21:59:12] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 21:59:12,795] : Request From : test33334
+[INFO][2022-01-05 21:59:25,096] : Successfully finished work : test33334
+[INFO][2022-01-05 21:59:25,115] : 127.0.0.1 - - [05/Jan/2022 21:59:25] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:00:42,313] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:00:55,536] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:00:56,780] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:00:56,781] : User directory already exists : test33334
+[INFO][2022-01-05 22:00:56,782] : 127.0.0.1 - - [05/Jan/2022 22:00:56] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:00:56,789] : Request From : test33334
+[INFO][2022-01-05 22:01:08,977] : Successfully finished work : test33334
+[INFO][2022-01-05 22:01:08,996] : 127.0.0.1 - - [05/Jan/2022 22:01:08] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:03:31,411] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:03:32,191] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:03:32,191] : User directory already exists : test33334
+[INFO][2022-01-05 22:03:32,193] : 127.0.0.1 - - [05/Jan/2022 22:03:32] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:03:32,200] : Request From : test33334
+[ERROR][2022-01-05 22:03:44,513] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "server_execute.py", line 323, in tryon
+    rgbd2pcd.run(results_dir)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 159, in run
+    depth2point(fd, bd, rgb, rgb_back, parse_shape=parse_shape, label='pred', out_fn=point_out_fn)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 66, in depth2point
+    file.write('''ply
+TypeError: %x format: an integer is required, not bytes
+[INFO][2022-01-05 22:03:44,517] : 127.0.0.1 - - [05/Jan/2022 22:03:44] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 22:04:26,963] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:04:27,725] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:04:27,725] : User directory already exists : test33334
+[INFO][2022-01-05 22:04:27,726] : 127.0.0.1 - - [05/Jan/2022 22:04:27] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:04:27,732] : Request From : test33334
+[ERROR][2022-01-05 22:04:38,919] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "server_execute.py", line 323, in tryon
+    rgbd2pcd.run(results_dir)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 159, in run
+    depth2point(fd, bd, rgb, rgb_back, parse_shape=parse_shape, label='pred', out_fn=point_out_fn)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 66, in depth2point
+    file.write('''ply
+ValueError: unsupported format character 'b' (0x62) at index 217
+[INFO][2022-01-05 22:04:38,922] : 127.0.0.1 - - [05/Jan/2022 22:04:38] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 22:04:58,896] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:04:59,741] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:04:59,742] : User directory already exists : test33334
+[INFO][2022-01-05 22:04:59,743] : 127.0.0.1 - - [05/Jan/2022 22:04:59] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:04:59,751] : Request From : test33334
+[INFO][2022-01-05 22:05:11,385] : Successfully finished work : test33334
+[INFO][2022-01-05 22:05:11,402] : 127.0.0.1 - - [05/Jan/2022 22:05:11] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:08:49,395] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:08:50,277] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:08:50,277] : User directory already exists : test33334
+[INFO][2022-01-05 22:08:50,279] : 127.0.0.1 - - [05/Jan/2022 22:08:50] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:08:50,288] : Request From : test33334
+[INFO][2022-01-05 22:09:02,549] : Successfully finished work : test33334
+[INFO][2022-01-05 22:09:02,575] : 127.0.0.1 - - [05/Jan/2022 22:09:02] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:10:25,661] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:10:27,672] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:10:27,673] : User directory already exists : test33334
+[INFO][2022-01-05 22:10:27,674] : 127.0.0.1 - - [05/Jan/2022 22:10:27] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:10:27,685] : Request From : test33334
+[ERROR][2022-01-05 22:10:38,611] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "server_execute.py", line 323, in tryon
+    rgbd2pcd.run(results_dir)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 159, in run
+    depth2point(fd, bd, rgb, rgb_back, parse_shape=parse_shape, label='pred', out_fn=point_out_fn)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 39, in depth2point
+    points.append("%f %f %f %d %d %d\n" % (X, Y, Z, color[0], color[1], color[2]), 'ascii')
+TypeError: append() takes exactly one argument (2 given)
+[INFO][2022-01-05 22:10:38,614] : 127.0.0.1 - - [05/Jan/2022 22:10:38] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 22:10:50,734] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:10:51,445] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:10:51,445] : User directory already exists : test33334
+[INFO][2022-01-05 22:10:51,447] : 127.0.0.1 - - [05/Jan/2022 22:10:51] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:10:51,452] : Request From : test33334
+[ERROR][2022-01-05 22:11:03,488] : Exception on /wtf/3dtryon [POST]
+Traceback (most recent call last):
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 2073, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1518, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/lab/anaconda3/envs/m3d-vton/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "server_execute.py", line 323, in tryon
+    rgbd2pcd.run(results_dir)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 159, in run
+    depth2point(fd, bd, rgb, rgb_back, parse_shape=parse_shape, label='pred', out_fn=point_out_fn)
+  File "/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py", line 77, in depth2point
+    ''' % (len(points), b"".join(points)))
+TypeError: sequence item 0: expected a bytes-like object, str found
+[INFO][2022-01-05 22:11:03,492] : 127.0.0.1 - - [05/Jan/2022 22:11:03] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 22:11:18,105] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:11:18,106] :  * Restarting with stat
+[WARNING][2022-01-05 22:11:19,584] :  * Debugger is active!
+[INFO][2022-01-05 22:11:19,602] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-05 22:11:34,000] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py', reloading
+[INFO][2022-01-05 22:11:34,303] :  * Restarting with stat
+[INFO][2022-01-05 22:11:38,191] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:11:38,192] :  * Restarting with stat
+[WARNING][2022-01-05 22:11:39,604] :  * Debugger is active!
+[INFO][2022-01-05 22:11:39,617] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-05 22:11:40,588] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:11:40,588] : User directory already exists : test33334
+[INFO][2022-01-05 22:11:40,590] : 127.0.0.1 - - [05/Jan/2022 22:11:40] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:11:40,601] : Request From : test33334
+[INFO][2022-01-05 22:11:49,287] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py', reloading
+[INFO][2022-01-05 22:24:50,577] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:24:50,578] :  * Restarting with stat
+[WARNING][2022-01-05 22:24:51,887] :  * Debugger is active!
+[INFO][2022-01-05 22:24:51,908] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-05 22:24:53,030] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:24:53,030] : User directory already exists : test33334
+[INFO][2022-01-05 22:24:53,031] : 127.0.0.1 - - [05/Jan/2022 22:24:53] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:24:53,040] : Request From : test33334
+[INFO][2022-01-05 22:25:04,942] : 127.0.0.1 - - [05/Jan/2022 22:25:04] "[35m[1mPOST /wtf/3dtryon HTTP/1.1[0m" 500 -
+[INFO][2022-01-05 22:25:36,126] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:25:36,126] :  * Restarting with stat
+[WARNING][2022-01-05 22:25:37,510] :  * Debugger is active!
+[INFO][2022-01-05 22:25:37,535] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-05 22:25:38,881] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:25:38,881] : User directory already exists : test33334
+[INFO][2022-01-05 22:25:38,883] : 127.0.0.1 - - [05/Jan/2022 22:25:38] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:25:38,889] : Request From : test33334
+[INFO][2022-01-05 22:25:50,193] : Successfully finished work : test33334
+[INFO][2022-01-05 22:25:50,215] : 127.0.0.1 - - [05/Jan/2022 22:25:50] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:28:56,864] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/rgbd2pcd.py', reloading
+[INFO][2022-01-05 22:28:57,352] :  * Restarting with stat
+[INFO][2022-01-05 22:29:02,158] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-05 22:29:02,159] :  * Restarting with stat
+[WARNING][2022-01-05 22:29:03,572] :  * Debugger is active!
+[INFO][2022-01-05 22:29:03,589] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-05 22:29:04,878] : Create user directory request from : test33334
+[WARNING][2022-01-05 22:29:04,879] : User directory already exists : test33334
+[INFO][2022-01-05 22:29:04,881] : 127.0.0.1 - - [05/Jan/2022 22:29:04] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:29:04,890] : Request From : test33334
+[INFO][2022-01-05 22:29:16,860] : Successfully finished work : test33334
+[INFO][2022-01-05 22:29:16,882] : 127.0.0.1 - - [05/Jan/2022 22:29:16] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:44:39,763] : 127.0.0.1 - - [05/Jan/2022 22:44:39] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:44:39,766] : Create user directory request from : 160aa82c-974f-4e51-8b25-94439c0450d4
+[INFO][2022-01-05 22:44:39,783] : User directory successfully created : 160aa82c-974f-4e51-8b25-94439c0450d4
+[INFO][2022-01-05 22:44:39,783] : 127.0.0.1 - - [05/Jan/2022 22:44:39] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:44:58,866] : 127.0.0.1 - - [05/Jan/2022 22:44:58] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:44:58,870] : Request From : 160aa82c-974f-4e51-8b25-94439c0450d4
+[INFO][2022-01-05 22:45:08,475] : Successfully finished work : 160aa82c-974f-4e51-8b25-94439c0450d4
+[INFO][2022-01-05 22:45:08,494] : 127.0.0.1 - - [05/Jan/2022 22:45:08] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:46:19,561] : 127.0.0.1 - - [05/Jan/2022 22:46:19] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:46:19,565] : Create user directory request from : 71c52974-a97f-4501-a38e-4ba8b52d9dd5
+[INFO][2022-01-05 22:46:19,576] : User directory successfully created : 71c52974-a97f-4501-a38e-4ba8b52d9dd5
+[INFO][2022-01-05 22:46:19,577] : 127.0.0.1 - - [05/Jan/2022 22:46:19] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:46:33,184] : 127.0.0.1 - - [05/Jan/2022 22:46:33] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:46:33,189] : Request From : 71c52974-a97f-4501-a38e-4ba8b52d9dd5
+[INFO][2022-01-05 22:46:41,883] : Successfully finished work : 71c52974-a97f-4501-a38e-4ba8b52d9dd5
+[INFO][2022-01-05 22:46:41,902] : 127.0.0.1 - - [05/Jan/2022 22:46:41] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:50:01,020] : 127.0.0.1 - - [05/Jan/2022 22:50:01] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:50:01,025] : Create user directory request from : ca164241-de72-442c-92e8-52e9f5259477
+[INFO][2022-01-05 22:50:01,041] : User directory successfully created : ca164241-de72-442c-92e8-52e9f5259477
+[INFO][2022-01-05 22:50:01,042] : 127.0.0.1 - - [05/Jan/2022 22:50:01] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:51:36,785] : 127.0.0.1 - - [05/Jan/2022 22:51:36] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:51:36,790] : Create user directory request from : 1a7da0d8-943a-4f25-8e49-fb7d8c1ee6df
+[INFO][2022-01-05 22:51:36,801] : User directory successfully created : 1a7da0d8-943a-4f25-8e49-fb7d8c1ee6df
+[INFO][2022-01-05 22:51:36,802] : 127.0.0.1 - - [05/Jan/2022 22:51:36] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 22:51:46,420] : 127.0.0.1 - - [05/Jan/2022 22:51:46] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 22:51:46,425] : Request From : 1a7da0d8-943a-4f25-8e49-fb7d8c1ee6df
+[INFO][2022-01-05 22:51:55,017] : Successfully finished work : 1a7da0d8-943a-4f25-8e49-fb7d8c1ee6df
+[INFO][2022-01-05 22:51:55,040] : 127.0.0.1 - - [05/Jan/2022 22:51:55] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:19:22,190] : 127.0.0.1 - - [05/Jan/2022 23:19:22] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:19:22,195] : Create user directory request from : 9fd5e6fd-51fa-49b3-aa37-a85d8eb02e79
+[INFO][2022-01-05 23:19:22,213] : User directory successfully created : 9fd5e6fd-51fa-49b3-aa37-a85d8eb02e79
+[INFO][2022-01-05 23:19:22,214] : 127.0.0.1 - - [05/Jan/2022 23:19:22] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:19:37,501] : 127.0.0.1 - - [05/Jan/2022 23:19:37] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:19:37,504] : Request From : 9fd5e6fd-51fa-49b3-aa37-a85d8eb02e79
+[INFO][2022-01-05 23:19:47,276] : Successfully finished work : 9fd5e6fd-51fa-49b3-aa37-a85d8eb02e79
+[INFO][2022-01-05 23:19:47,311] : 127.0.0.1 - - [05/Jan/2022 23:19:47] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:24:06,637] : 127.0.0.1 - - [05/Jan/2022 23:24:06] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:24:06,641] : Create user directory request from : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:24:06,650] : User directory successfully created : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:24:06,651] : 127.0.0.1 - - [05/Jan/2022 23:24:06] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:24:21,820] : 127.0.0.1 - - [05/Jan/2022 23:24:21] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:24:21,825] : Request From : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:24:32,334] : Successfully finished work : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:24:32,358] : 127.0.0.1 - - [05/Jan/2022 23:24:32] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:24:52,798] : 127.0.0.1 - - [05/Jan/2022 23:24:52] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:24:52,804] : Request From : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:25:02,912] : Successfully finished work : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:25:02,936] : 127.0.0.1 - - [05/Jan/2022 23:25:02] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:25:51,096] : 127.0.0.1 - - [05/Jan/2022 23:25:51] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:25:51,099] : Create user directory request from : 9f8f0d6a-be86-4c81-8fd5-9e63c042625f
+[INFO][2022-01-05 23:25:51,116] : User directory successfully created : 9f8f0d6a-be86-4c81-8fd5-9e63c042625f
+[INFO][2022-01-05 23:25:51,117] : 127.0.0.1 - - [05/Jan/2022 23:25:51] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:28:29,125] : 127.0.0.1 - - [05/Jan/2022 23:28:29] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:28:29,130] : Request From : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:28:38,308] : Successfully finished work : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:28:38,334] : 127.0.0.1 - - [05/Jan/2022 23:28:38] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:29:43,898] : 127.0.0.1 - - [05/Jan/2022 23:29:43] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:29:43,903] : Request From : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:29:52,244] : Successfully finished work : 06fcaa9e-1648-4486-b25c-ed91b529014c
+[INFO][2022-01-05 23:29:52,264] : 127.0.0.1 - - [05/Jan/2022 23:29:52] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:31:26,426] : 127.0.0.1 - - [05/Jan/2022 23:31:26] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:31:26,431] : Create user directory request from : d238f46f-53e1-4702-8692-4f4c6b60f6cf
+[INFO][2022-01-05 23:31:26,447] : User directory successfully created : d238f46f-53e1-4702-8692-4f4c6b60f6cf
+[INFO][2022-01-05 23:31:26,448] : 127.0.0.1 - - [05/Jan/2022 23:31:26] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:31:45,311] : 127.0.0.1 - - [05/Jan/2022 23:31:45] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:31:45,315] : Request From : d238f46f-53e1-4702-8692-4f4c6b60f6cf
+[INFO][2022-01-05 23:31:53,951] : Successfully finished work : d238f46f-53e1-4702-8692-4f4c6b60f6cf
+[INFO][2022-01-05 23:31:53,969] : 127.0.0.1 - - [05/Jan/2022 23:31:53] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:32:24,129] : 127.0.0.1 - - [05/Jan/2022 23:32:24] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:32:24,133] : Request From : d238f46f-53e1-4702-8692-4f4c6b60f6cf
+[INFO][2022-01-05 23:32:32,828] : Successfully finished work : d238f46f-53e1-4702-8692-4f4c6b60f6cf
+[INFO][2022-01-05 23:32:32,847] : 127.0.0.1 - - [05/Jan/2022 23:32:32] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:33:05,236] : 127.0.0.1 - - [05/Jan/2022 23:33:05] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:33:05,240] : Create user directory request from : bad241e7-a2a7-42b0-895b-82daa55c6075
+[INFO][2022-01-05 23:33:05,259] : User directory successfully created : bad241e7-a2a7-42b0-895b-82daa55c6075
+[INFO][2022-01-05 23:33:05,260] : 127.0.0.1 - - [05/Jan/2022 23:33:05] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:33:05,372] : Create user directory request from : 17119f8f-fb19-4f7d-af24-9c832887fced
+[INFO][2022-01-05 23:33:05,387] : User directory successfully created : 17119f8f-fb19-4f7d-af24-9c832887fced
+[INFO][2022-01-05 23:33:05,387] : 127.0.0.1 - - [05/Jan/2022 23:33:05] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:34:08,500] : 127.0.0.1 - - [05/Jan/2022 23:34:08] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:34:08,505] : Request From : 17119f8f-fb19-4f7d-af24-9c832887fced
+[INFO][2022-01-05 23:34:17,216] : Successfully finished work : 17119f8f-fb19-4f7d-af24-9c832887fced
+[INFO][2022-01-05 23:34:17,238] : 127.0.0.1 - - [05/Jan/2022 23:34:17] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:34:42,725] : 127.0.0.1 - - [05/Jan/2022 23:34:42] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:34:42,729] : Create user directory request from : d60bff0c-94ee-451c-b1a9-3f1561195a64
+[INFO][2022-01-05 23:34:42,745] : User directory successfully created : d60bff0c-94ee-451c-b1a9-3f1561195a64
+[INFO][2022-01-05 23:34:42,746] : 127.0.0.1 - - [05/Jan/2022 23:34:42] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:35:33,063] : 127.0.0.1 - - [05/Jan/2022 23:35:33] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:35:33,067] : Request From : d60bff0c-94ee-451c-b1a9-3f1561195a64
+[INFO][2022-01-05 23:35:41,932] : Successfully finished work : d60bff0c-94ee-451c-b1a9-3f1561195a64
+[INFO][2022-01-05 23:35:41,950] : 127.0.0.1 - - [05/Jan/2022 23:35:41] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:37:37,000] : 127.0.0.1 - - [05/Jan/2022 23:37:37] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:37:37,004] : Create user directory request from : 65ec6015-d028-461e-975c-b345bd01ffbc
+[INFO][2022-01-05 23:37:37,019] : User directory successfully created : 65ec6015-d028-461e-975c-b345bd01ffbc
+[INFO][2022-01-05 23:37:37,020] : 127.0.0.1 - - [05/Jan/2022 23:37:37] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:37:51,946] : 127.0.0.1 - - [05/Jan/2022 23:37:51] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:37:51,949] : Request From : 65ec6015-d028-461e-975c-b345bd01ffbc
+[INFO][2022-01-05 23:38:02,018] : Successfully finished work : 65ec6015-d028-461e-975c-b345bd01ffbc
+[INFO][2022-01-05 23:38:02,037] : 127.0.0.1 - - [05/Jan/2022 23:38:02] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:40:19,908] : 127.0.0.1 - - [05/Jan/2022 23:40:19] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:40:19,912] : Create user directory request from : 024a2cd7-8496-4244-beda-d66c53443bff
+[INFO][2022-01-05 23:40:19,928] : User directory successfully created : 024a2cd7-8496-4244-beda-d66c53443bff
+[INFO][2022-01-05 23:40:19,929] : 127.0.0.1 - - [05/Jan/2022 23:40:19] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:40:30,893] : 127.0.0.1 - - [05/Jan/2022 23:40:30] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:40:30,897] : Create user directory request from : 9ab6c9a7-f40f-44d5-abe8-676626fcdc3b
+[INFO][2022-01-05 23:40:30,915] : User directory successfully created : 9ab6c9a7-f40f-44d5-abe8-676626fcdc3b
+[INFO][2022-01-05 23:40:30,915] : 127.0.0.1 - - [05/Jan/2022 23:40:30] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:40:43,959] : 127.0.0.1 - - [05/Jan/2022 23:40:43] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:40:43,962] : Request From : 9ab6c9a7-f40f-44d5-abe8-676626fcdc3b
+[INFO][2022-01-05 23:40:53,477] : Successfully finished work : 9ab6c9a7-f40f-44d5-abe8-676626fcdc3b
+[INFO][2022-01-05 23:40:53,492] : 127.0.0.1 - - [05/Jan/2022 23:40:53] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:44:58,037] : 127.0.0.1 - - [05/Jan/2022 23:44:58] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:44:58,043] : Request From : 9ab6c9a7-f40f-44d5-abe8-676626fcdc3b
+[INFO][2022-01-05 23:45:06,701] : Successfully finished work : 9ab6c9a7-f40f-44d5-abe8-676626fcdc3b
+[INFO][2022-01-05 23:45:06,719] : 127.0.0.1 - - [05/Jan/2022 23:45:06] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:45:27,620] : 127.0.0.1 - - [05/Jan/2022 23:45:27] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:45:27,624] : Create user directory request from : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:45:27,639] : User directory successfully created : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:45:27,640] : 127.0.0.1 - - [05/Jan/2022 23:45:27] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:45:37,252] : 127.0.0.1 - - [05/Jan/2022 23:45:37] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:45:37,257] : Request From : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:45:46,638] : Successfully finished work : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:45:46,660] : 127.0.0.1 - - [05/Jan/2022 23:45:46] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:46:20,259] : 127.0.0.1 - - [05/Jan/2022 23:46:20] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:46:20,262] : Request From : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:46:29,417] : Successfully finished work : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:46:29,436] : 127.0.0.1 - - [05/Jan/2022 23:46:29] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:47:21,899] : 127.0.0.1 - - [05/Jan/2022 23:47:21] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:47:21,904] : Request From : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:47:31,013] : Successfully finished work : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:47:31,030] : 127.0.0.1 - - [05/Jan/2022 23:47:31] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:50:26,974] : 127.0.0.1 - - [05/Jan/2022 23:50:26] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:50:26,978] : Request From : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:50:36,300] : Successfully finished work : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:50:36,320] : 127.0.0.1 - - [05/Jan/2022 23:50:36] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:50:55,510] : 127.0.0.1 - - [05/Jan/2022 23:50:55] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:50:55,515] : Request From : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:51:04,341] : Successfully finished work : 78d3bd0b-e72e-4589-9c59-56d6d3b2dc39
+[INFO][2022-01-05 23:51:04,363] : 127.0.0.1 - - [05/Jan/2022 23:51:04] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:53:34,703] : 127.0.0.1 - - [05/Jan/2022 23:53:34] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:53:34,707] : Create user directory request from : 0ddbeb17-28c2-4361-825f-c82654f92bc9
+[INFO][2022-01-05 23:53:34,722] : User directory successfully created : 0ddbeb17-28c2-4361-825f-c82654f92bc9
+[INFO][2022-01-05 23:53:34,723] : 127.0.0.1 - - [05/Jan/2022 23:53:34] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:54:44,211] : 127.0.0.1 - - [05/Jan/2022 23:54:44] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:54:44,215] : Create user directory request from : 5156b18f-3384-4452-bf2c-239dc35eaf0e
+[INFO][2022-01-05 23:54:44,232] : User directory successfully created : 5156b18f-3384-4452-bf2c-239dc35eaf0e
+[INFO][2022-01-05 23:54:44,233] : 127.0.0.1 - - [05/Jan/2022 23:54:44] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:56:41,152] : 127.0.0.1 - - [05/Jan/2022 23:56:41] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:56:41,155] : Create user directory request from : d40b3465-1110-4cc0-8a20-89582b7270d4
+[INFO][2022-01-05 23:56:41,165] : User directory successfully created : d40b3465-1110-4cc0-8a20-89582b7270d4
+[INFO][2022-01-05 23:56:41,166] : 127.0.0.1 - - [05/Jan/2022 23:56:41] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:57:25,295] : 127.0.0.1 - - [05/Jan/2022 23:57:25] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:57:25,300] : Create user directory request from : d8876f8d-8180-4f58-9d75-6c9c9f0d00c0
+[INFO][2022-01-05 23:57:25,314] : User directory successfully created : d8876f8d-8180-4f58-9d75-6c9c9f0d00c0
+[INFO][2022-01-05 23:57:25,315] : 127.0.0.1 - - [05/Jan/2022 23:57:25] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:57:26,805] : Create user directory request from : d810f828-5fe9-4890-9ef4-120eae036a0a
+[INFO][2022-01-05 23:57:26,822] : User directory successfully created : d810f828-5fe9-4890-9ef4-120eae036a0a
+[INFO][2022-01-05 23:57:26,824] : 127.0.0.1 - - [05/Jan/2022 23:57:26] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:57:45,164] : 127.0.0.1 - - [05/Jan/2022 23:57:45] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:57:45,167] : Request From : d8876f8d-8180-4f58-9d75-6c9c9f0d00c0
+[INFO][2022-01-05 23:57:53,980] : Successfully finished work : d8876f8d-8180-4f58-9d75-6c9c9f0d00c0
+[INFO][2022-01-05 23:57:53,997] : 127.0.0.1 - - [05/Jan/2022 23:57:53] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-05 23:59:46,989] : 127.0.0.1 - - [05/Jan/2022 23:59:46] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:59:46,992] : Create user directory request from : f4f6881d-ea9d-4ba5-a00b-7c7ca6bb2848
+[INFO][2022-01-05 23:59:47,008] : User directory successfully created : f4f6881d-ea9d-4ba5-a00b-7c7ca6bb2848
+[INFO][2022-01-05 23:59:47,008] : 127.0.0.1 - - [05/Jan/2022 23:59:47] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-05 23:59:49,492] : Create user directory request from : 4de2fb2d-36a8-4a9f-a3e4-10f1c8928dc4
+[INFO][2022-01-05 23:59:49,510] : User directory successfully created : 4de2fb2d-36a8-4a9f-a3e4-10f1c8928dc4
+[INFO][2022-01-05 23:59:49,511] : 127.0.0.1 - - [05/Jan/2022 23:59:49] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:00:29,289] : 127.0.0.1 - - [06/Jan/2022 00:00:29] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:00:29,294] : Request From : 4de2fb2d-36a8-4a9f-a3e4-10f1c8928dc4
+[INFO][2022-01-06 00:00:39,090] : Successfully finished work : 4de2fb2d-36a8-4a9f-a3e4-10f1c8928dc4
+[INFO][2022-01-06 00:00:39,113] : 127.0.0.1 - - [06/Jan/2022 00:00:39] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:01:38,443] : 127.0.0.1 - - [06/Jan/2022 00:01:38] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:01:38,449] : Create user directory request from : aa442ecb-4176-4bbd-8795-130cd1ecb0ea
+[INFO][2022-01-06 00:01:38,466] : User directory successfully created : aa442ecb-4176-4bbd-8795-130cd1ecb0ea
+[INFO][2022-01-06 00:01:38,467] : 127.0.0.1 - - [06/Jan/2022 00:01:38] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:01:51,685] : 127.0.0.1 - - [06/Jan/2022 00:01:51] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:01:51,690] : Request From : aa442ecb-4176-4bbd-8795-130cd1ecb0ea
+[INFO][2022-01-06 00:02:00,463] : Successfully finished work : aa442ecb-4176-4bbd-8795-130cd1ecb0ea
+[INFO][2022-01-06 00:02:00,481] : 127.0.0.1 - - [06/Jan/2022 00:02:00] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:02:53,179] : 127.0.0.1 - - [06/Jan/2022 00:02:53] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:02:53,183] : Create user directory request from : 7b7929dd-b120-4cc1-aec2-b708c321e00f
+[INFO][2022-01-06 00:02:53,194] : User directory successfully created : 7b7929dd-b120-4cc1-aec2-b708c321e00f
+[INFO][2022-01-06 00:02:53,195] : 127.0.0.1 - - [06/Jan/2022 00:02:53] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:03:05,797] : 127.0.0.1 - - [06/Jan/2022 00:03:05] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:03:05,801] : Request From : 7b7929dd-b120-4cc1-aec2-b708c321e00f
+[INFO][2022-01-06 00:03:14,667] : Successfully finished work : 7b7929dd-b120-4cc1-aec2-b708c321e00f
+[INFO][2022-01-06 00:03:14,686] : 127.0.0.1 - - [06/Jan/2022 00:03:14] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:03:45,565] : 127.0.0.1 - - [06/Jan/2022 00:03:45] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:03:45,569] : Create user directory request from : a7e39fff-b3c0-47dd-a76a-4938ed5f9461
+[INFO][2022-01-06 00:03:45,585] : User directory successfully created : a7e39fff-b3c0-47dd-a76a-4938ed5f9461
+[INFO][2022-01-06 00:03:45,586] : 127.0.0.1 - - [06/Jan/2022 00:03:45] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:03:57,892] : 127.0.0.1 - - [06/Jan/2022 00:03:57] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:03:57,896] : Request From : a7e39fff-b3c0-47dd-a76a-4938ed5f9461
+[INFO][2022-01-06 00:04:06,878] : Successfully finished work : a7e39fff-b3c0-47dd-a76a-4938ed5f9461
+[INFO][2022-01-06 00:04:06,901] : 127.0.0.1 - - [06/Jan/2022 00:04:06] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:04:36,660] : 127.0.0.1 - - [06/Jan/2022 00:04:36] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:04:36,664] : Create user directory request from : 59ba2257-e8cc-4798-96a6-1f8dee6f4842
+[INFO][2022-01-06 00:04:36,677] : User directory successfully created : 59ba2257-e8cc-4798-96a6-1f8dee6f4842
+[INFO][2022-01-06 00:04:36,678] : 127.0.0.1 - - [06/Jan/2022 00:04:36] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:05:02,608] : 127.0.0.1 - - [06/Jan/2022 00:05:02] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:05:02,612] : Create user directory request from : b25611a3-7acc-4415-a105-0d2f700590cb
+[INFO][2022-01-06 00:05:02,626] : User directory successfully created : b25611a3-7acc-4415-a105-0d2f700590cb
+[INFO][2022-01-06 00:05:02,626] : 127.0.0.1 - - [06/Jan/2022 00:05:02] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:05:12,185] : 127.0.0.1 - - [06/Jan/2022 00:05:12] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:05:12,190] : Request From : b25611a3-7acc-4415-a105-0d2f700590cb
+[INFO][2022-01-06 00:05:21,627] : Successfully finished work : b25611a3-7acc-4415-a105-0d2f700590cb
+[INFO][2022-01-06 00:05:21,656] : 127.0.0.1 - - [06/Jan/2022 00:05:21] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:05:49,317] : 127.0.0.1 - - [06/Jan/2022 00:05:49] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:05:49,322] : Request From : b25611a3-7acc-4415-a105-0d2f700590cb
+[INFO][2022-01-06 00:05:57,761] : Successfully finished work : b25611a3-7acc-4415-a105-0d2f700590cb
+[INFO][2022-01-06 00:05:57,794] : 127.0.0.1 - - [06/Jan/2022 00:05:57] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:06:38,372] : 127.0.0.1 - - [06/Jan/2022 00:06:38] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:06:38,377] : Request From : b25611a3-7acc-4415-a105-0d2f700590cb
+[INFO][2022-01-06 00:06:46,726] : Successfully finished work : b25611a3-7acc-4415-a105-0d2f700590cb
+[INFO][2022-01-06 00:06:46,756] : 127.0.0.1 - - [06/Jan/2022 00:06:46] "POST /wtf/3dtryon HTTP/1.1" 200 -

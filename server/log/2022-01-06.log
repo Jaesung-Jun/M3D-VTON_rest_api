@@ -1,0 +1,493 @@
+[INFO][2022-01-06 00:07:08,626] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 00:07:08,627] :  * Restarting with stat
+[WARNING][2022-01-06 00:07:10,059] :  * Debugger is active!
+[INFO][2022-01-06 00:07:10,074] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 00:07:12,413] : 127.0.0.1 - - [06/Jan/2022 00:07:12] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:07:12,416] : Create user directory request from : 878ff5c4-f4e6-45b0-a8f7-800b34dc590c
+[INFO][2022-01-06 00:07:12,428] : User directory successfully created : 878ff5c4-f4e6-45b0-a8f7-800b34dc590c
+[INFO][2022-01-06 00:07:12,430] : 127.0.0.1 - - [06/Jan/2022 00:07:12] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:07:22,374] : 127.0.0.1 - - [06/Jan/2022 00:07:22] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:07:22,378] : Request From : 878ff5c4-f4e6-45b0-a8f7-800b34dc590c
+[INFO][2022-01-06 00:07:33,661] : Successfully finished work : 878ff5c4-f4e6-45b0-a8f7-800b34dc590c
+[INFO][2022-01-06 00:07:33,686] : 127.0.0.1 - - [06/Jan/2022 00:07:33] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:07:54,579] : 127.0.0.1 - - [06/Jan/2022 00:07:54] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:07:54,583] : Request From : 878ff5c4-f4e6-45b0-a8f7-800b34dc590c
+[INFO][2022-01-06 00:08:04,366] : Successfully finished work : 878ff5c4-f4e6-45b0-a8f7-800b34dc590c
+[INFO][2022-01-06 00:08:04,386] : 127.0.0.1 - - [06/Jan/2022 00:08:04] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:15:45,528] : 127.0.0.1 - - [06/Jan/2022 00:15:45] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:15:45,532] : Create user directory request from : da3ddb6b-9565-41bc-9fe6-cc461a1890c1
+[INFO][2022-01-06 00:15:45,543] : User directory successfully created : da3ddb6b-9565-41bc-9fe6-cc461a1890c1
+[INFO][2022-01-06 00:15:45,544] : 127.0.0.1 - - [06/Jan/2022 00:15:45] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:15:56,790] : 127.0.0.1 - - [06/Jan/2022 00:15:56] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:15:56,794] : Request From : da3ddb6b-9565-41bc-9fe6-cc461a1890c1
+[INFO][2022-01-06 00:16:05,306] : Successfully finished work : da3ddb6b-9565-41bc-9fe6-cc461a1890c1
+[INFO][2022-01-06 00:16:05,326] : 127.0.0.1 - - [06/Jan/2022 00:16:05] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:38:03,177] : 127.0.0.1 - - [06/Jan/2022 00:38:03] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:38:03,183] : Create user directory request from : 9cb5ef3f-767d-419d-afb1-874322e6ae53
+[INFO][2022-01-06 00:38:03,196] : User directory successfully created : 9cb5ef3f-767d-419d-afb1-874322e6ae53
+[INFO][2022-01-06 00:38:03,197] : 127.0.0.1 - - [06/Jan/2022 00:38:03] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:39:31,730] : 127.0.0.1 - - [06/Jan/2022 00:39:31] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:39:31,734] : Create user directory request from : d38daa31-4a18-49f4-8343-02098024d1d7
+[INFO][2022-01-06 00:39:31,752] : User directory successfully created : d38daa31-4a18-49f4-8343-02098024d1d7
+[INFO][2022-01-06 00:39:31,753] : 127.0.0.1 - - [06/Jan/2022 00:39:31] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:42:19,787] : 127.0.0.1 - - [06/Jan/2022 00:42:19] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:42:19,791] : Create user directory request from : 46c291bc-2e14-4a07-9613-36be0064821d
+[INFO][2022-01-06 00:42:19,807] : User directory successfully created : 46c291bc-2e14-4a07-9613-36be0064821d
+[INFO][2022-01-06 00:42:19,808] : 127.0.0.1 - - [06/Jan/2022 00:42:19] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:46:30,596] : 127.0.0.1 - - [06/Jan/2022 00:46:30] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:46:30,599] : Create user directory request from : c0110e00-2d39-49dc-812a-43dfb55f0fd4
+[INFO][2022-01-06 00:46:30,613] : User directory successfully created : c0110e00-2d39-49dc-812a-43dfb55f0fd4
+[INFO][2022-01-06 00:46:30,614] : 127.0.0.1 - - [06/Jan/2022 00:46:30] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:48:42,353] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 00:48:42,354] :  * Restarting with stat
+[WARNING][2022-01-06 00:48:43,778] :  * Debugger is active!
+[INFO][2022-01-06 00:48:43,795] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 00:49:30,291] : 127.0.0.1 - - [06/Jan/2022 00:49:30] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:49:30,298] : Create user directory request from : c0110e00-2d39-49dc-812a-43dfb55f0fd4
+[WARNING][2022-01-06 00:49:30,298] : User directory already exists : c0110e00-2d39-49dc-812a-43dfb55f0fd4
+[INFO][2022-01-06 00:49:30,299] : 127.0.0.1 - - [06/Jan/2022 00:49:30] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 00:49:48,428] : 127.0.0.1 - - [06/Jan/2022 00:49:48] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 00:49:48,431] : Request From : c0110e00-2d39-49dc-812a-43dfb55f0fd4
+[INFO][2022-01-06 00:49:59,291] : Successfully finished work : c0110e00-2d39-49dc-812a-43dfb55f0fd4
+[INFO][2022-01-06 00:49:59,308] : 127.0.0.1 - - [06/Jan/2022 00:49:59] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:04:39,964] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:04:40,503] :  * Restarting with stat
+[WARNING][2022-01-06 16:04:42,191] :  * Debugger is active!
+[INFO][2022-01-06 16:04:42,213] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:06:14,527] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:06:14,768] :  * Restarting with stat
+[WARNING][2022-01-06 16:06:16,530] :  * Debugger is active!
+[INFO][2022-01-06 16:06:16,549] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:06:47,646] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:06:47,920] :  * Restarting with stat
+[WARNING][2022-01-06 16:06:49,450] :  * Debugger is active!
+[INFO][2022-01-06 16:06:49,471] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:06:53,924] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:06:54,186] :  * Restarting with stat
+[WARNING][2022-01-06 16:06:55,795] :  * Debugger is active!
+[INFO][2022-01-06 16:06:55,817] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:07:29,142] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:07:29,448] :  * Restarting with stat
+[WARNING][2022-01-06 16:07:30,861] :  * Debugger is active!
+[INFO][2022-01-06 16:07:30,876] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:07:41,477] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:07:41,733] :  * Restarting with stat
+[WARNING][2022-01-06 16:07:43,190] :  * Debugger is active!
+[INFO][2022-01-06 16:07:43,208] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:07:56,233] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:07:56,468] :  * Restarting with stat
+[WARNING][2022-01-06 16:07:57,861] :  * Debugger is active!
+[INFO][2022-01-06 16:07:57,878] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:08:44,533] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:08:44,730] :  * Restarting with stat
+[WARNING][2022-01-06 16:08:45,920] :  * Debugger is active!
+[INFO][2022-01-06 16:08:45,938] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:08:52,570] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:08:52,572] :  * Restarting with stat
+[WARNING][2022-01-06 16:08:54,036] :  * Debugger is active!
+[INFO][2022-01-06 16:08:54,056] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:09:49,323] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:09:49,593] :  * Restarting with stat
+[WARNING][2022-01-06 16:09:51,193] :  * Debugger is active!
+[INFO][2022-01-06 16:09:51,214] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:10:19,136] : 127.0.0.1 - - [06/Jan/2022 16:10:19] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:10:19,140] : Request From : 9cb5ef3f-767d-419d-afb1-874322e6ae53
+[INFO][2022-01-06 16:10:31,511] : Successfully finished work : 9cb5ef3f-767d-419d-afb1-874322e6ae53
+[INFO][2022-01-06 16:10:31,528] : 127.0.0.1 - - [06/Jan/2022 16:10:31] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:11:03,986] : 127.0.0.1 - - [06/Jan/2022 16:11:03] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:11:03,989] : Create user directory request from : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:11:04,003] : User directory successfully created : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:11:04,003] : 127.0.0.1 - - [06/Jan/2022 16:11:04] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:11:22,453] : 127.0.0.1 - - [06/Jan/2022 16:11:22] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:11:22,456] : Request From : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:11:32,025] : Successfully finished work : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:11:32,041] : 127.0.0.1 - - [06/Jan/2022 16:11:32] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:12:00,317] : 127.0.0.1 - - [06/Jan/2022 16:12:00] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:12:00,321] : Request From : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:12:09,484] : Successfully finished work : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:12:09,504] : 127.0.0.1 - - [06/Jan/2022 16:12:09] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:12:27,565] : 127.0.0.1 - - [06/Jan/2022 16:12:27] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:12:27,570] : Request From : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:12:37,105] : Successfully finished work : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:12:37,124] : 127.0.0.1 - - [06/Jan/2022 16:12:37] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:13:21,739] : 127.0.0.1 - - [06/Jan/2022 16:13:21] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:13:21,743] : Request From : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:13:31,048] : Successfully finished work : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:13:31,066] : 127.0.0.1 - - [06/Jan/2022 16:13:31] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:14:20,013] : 127.0.0.1 - - [06/Jan/2022 16:14:20] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:14:20,017] : Request From : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:14:30,276] : Successfully finished work : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:14:30,301] : 127.0.0.1 - - [06/Jan/2022 16:14:30] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:15:12,401] : 127.0.0.1 - - [06/Jan/2022 16:15:12] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:15:12,405] : Request From : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:15:21,894] : Successfully finished work : 7a3236aa-e931-408f-9474-19482e8c4530
+[INFO][2022-01-06 16:15:21,911] : 127.0.0.1 - - [06/Jan/2022 16:15:21] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:16:18,045] : 127.0.0.1 - - [06/Jan/2022 16:16:18] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:16:18,049] : Create user directory request from : c0057c2b-8c7e-46ae-9730-2b642e514ad5
+[INFO][2022-01-06 16:16:18,066] : User directory successfully created : c0057c2b-8c7e-46ae-9730-2b642e514ad5
+[INFO][2022-01-06 16:16:18,067] : 127.0.0.1 - - [06/Jan/2022 16:16:18] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:18:55,496] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:18:55,497] :  * Restarting with stat
+[WARNING][2022-01-06 16:18:56,999] :  * Debugger is active!
+[INFO][2022-01-06 16:18:57,021] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:19:41,843] : 127.0.0.1 - - [06/Jan/2022 16:19:41] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:19:41,848] : Request From : c0057c2b-8c7e-46ae-9730-2b642e514ad5
+[INFO][2022-01-06 16:19:53,663] : Successfully finished work : c0057c2b-8c7e-46ae-9730-2b642e514ad5
+[INFO][2022-01-06 16:19:53,675] : 127.0.0.1 - - [06/Jan/2022 16:19:53] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:20:33,709] : 127.0.0.1 - - [06/Jan/2022 16:20:33] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:20:33,714] : Request From : c0057c2b-8c7e-46ae-9730-2b642e514ad5
+[INFO][2022-01-06 16:20:43,565] : Successfully finished work : c0057c2b-8c7e-46ae-9730-2b642e514ad5
+[INFO][2022-01-06 16:20:43,576] : 127.0.0.1 - - [06/Jan/2022 16:20:43] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:23:09,373] : 127.0.0.1 - - [06/Jan/2022 16:23:09] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:23:09,378] : Create user directory request from : cffe4ead-904f-4fc9-9f69-520f395f728e
+[INFO][2022-01-06 16:23:09,396] : User directory successfully created : cffe4ead-904f-4fc9-9f69-520f395f728e
+[INFO][2022-01-06 16:23:09,397] : 127.0.0.1 - - [06/Jan/2022 16:23:09] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:26:00,468] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:26:00,964] :  * Restarting with stat
+[WARNING][2022-01-06 16:26:02,199] :  * Debugger is active!
+[INFO][2022-01-06 16:26:02,220] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:26:04,637] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:26:04,840] :  * Restarting with stat
+[WARNING][2022-01-06 16:26:06,023] :  * Debugger is active!
+[INFO][2022-01-06 16:26:06,045] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:29:24,967] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:29:24,968] :  * Restarting with stat
+[WARNING][2022-01-06 16:29:26,787] :  * Debugger is active!
+[INFO][2022-01-06 16:29:26,808] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:29:48,877] : 127.0.0.1 - - [06/Jan/2022 16:29:48] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:29:48,882] : Request From : cffe4ead-904f-4fc9-9f69-520f395f728e
+[ERROR][2022-01-06 16:29:53,222] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:29:53,225] : 127.0.0.1 - - [06/Jan/2022 16:29:53] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:30:18,293] : 127.0.0.1 - - [06/Jan/2022 16:30:18] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:30:18,297] : Create user directory request from : f901fd87-4e3e-47c9-ac77-d9a68a9c8589
+[INFO][2022-01-06 16:30:18,316] : User directory successfully created : f901fd87-4e3e-47c9-ac77-d9a68a9c8589
+[INFO][2022-01-06 16:30:18,317] : 127.0.0.1 - - [06/Jan/2022 16:30:18] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:30:31,185] : 127.0.0.1 - - [06/Jan/2022 16:30:31] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:30:31,189] : Request From : f901fd87-4e3e-47c9-ac77-d9a68a9c8589
+[ERROR][2022-01-06 16:30:32,918] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:30:32,921] : 127.0.0.1 - - [06/Jan/2022 16:30:32] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:31:08,201] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:31:08,202] :  * Restarting with stat
+[WARNING][2022-01-06 16:31:09,906] :  * Debugger is active!
+[INFO][2022-01-06 16:31:09,923] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:31:10,512] : 127.0.0.1 - - [06/Jan/2022 16:31:10] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:31:10,516] : Request From : f901fd87-4e3e-47c9-ac77-d9a68a9c8589
+[ERROR][2022-01-06 16:31:14,805] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:31:14,807] : 127.0.0.1 - - [06/Jan/2022 16:31:14] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:31:32,302] : 127.0.0.1 - - [06/Jan/2022 16:31:32] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:31:32,306] : Create user directory request from : 257788bb-52e0-44a7-81bd-7e423f29a74b
+[INFO][2022-01-06 16:31:32,319] : User directory successfully created : 257788bb-52e0-44a7-81bd-7e423f29a74b
+[INFO][2022-01-06 16:31:32,319] : 127.0.0.1 - - [06/Jan/2022 16:31:32] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:31:44,700] : 127.0.0.1 - - [06/Jan/2022 16:31:44] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:31:44,703] : Request From : 257788bb-52e0-44a7-81bd-7e423f29a74b
+[ERROR][2022-01-06 16:31:46,545] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:31:46,546] : 127.0.0.1 - - [06/Jan/2022 16:31:46] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:33:01,173] : 127.0.0.1 - - [06/Jan/2022 16:33:01] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:33:01,178] : Request From : 257788bb-52e0-44a7-81bd-7e423f29a74b
+[WARNING][2022-01-06 16:33:01,178] : Error : 02 : User Directory Not Exists. (Please request to [wtf/user_directory])
+[INFO][2022-01-06 16:33:01,179] : 127.0.0.1 - - [06/Jan/2022 16:33:01] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:33:07,387] : 127.0.0.1 - - [06/Jan/2022 16:33:07] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:33:07,390] : Create user directory request from : 639a494c-2829-4fc2-aeee-cf8a4dd7f0b5
+[INFO][2022-01-06 16:33:07,400] : User directory successfully created : 639a494c-2829-4fc2-aeee-cf8a4dd7f0b5
+[INFO][2022-01-06 16:33:07,402] : 127.0.0.1 - - [06/Jan/2022 16:33:07] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:33:21,147] : 127.0.0.1 - - [06/Jan/2022 16:33:21] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:33:21,150] : Request From : 639a494c-2829-4fc2-aeee-cf8a4dd7f0b5
+[ERROR][2022-01-06 16:33:23,059] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:33:23,061] : 127.0.0.1 - - [06/Jan/2022 16:33:23] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:34:16,768] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:34:17,259] :  * Restarting with stat
+[WARNING][2022-01-06 16:34:18,890] :  * Debugger is active!
+[INFO][2022-01-06 16:34:18,904] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:34:45,507] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:34:45,508] :  * Restarting with stat
+[WARNING][2022-01-06 16:34:46,999] :  * Debugger is active!
+[INFO][2022-01-06 16:34:47,024] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:35:03,941] : 127.0.0.1 - - [06/Jan/2022 16:35:03] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:35:03,946] : Create user directory request from : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[INFO][2022-01-06 16:35:03,958] : User directory successfully created : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[INFO][2022-01-06 16:35:03,959] : 127.0.0.1 - - [06/Jan/2022 16:35:03] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 16:35:15,118] : 127.0.0.1 - - [06/Jan/2022 16:35:15] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:35:15,122] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[ERROR][2022-01-06 16:35:19,464] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:35:19,466] : 127.0.0.1 - - [06/Jan/2022 16:35:19] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:35:56,252] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:35:56,805] :  * Restarting with stat
+[WARNING][2022-01-06 16:35:58,355] :  * Debugger is active!
+[INFO][2022-01-06 16:35:58,379] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:36:02,586] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:36:02,874] :  * Restarting with stat
+[INFO][2022-01-06 16:36:06,088] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:36:06,089] :  * Restarting with stat
+[WARNING][2022-01-06 16:36:07,857] :  * Debugger is active!
+[INFO][2022-01-06 16:36:07,879] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:36:08,716] : 127.0.0.1 - - [06/Jan/2022 16:36:08] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:36:08,719] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[ERROR][2022-01-06 16:36:13,804] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:36:13,806] : 127.0.0.1 - - [06/Jan/2022 16:36:13] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:37:10,036] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:37:10,469] :  * Restarting with stat
+[WARNING][2022-01-06 16:37:11,661] :  * Debugger is active!
+[INFO][2022-01-06 16:37:11,682] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:37:35,208] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:37:35,209] :  * Restarting with stat
+[WARNING][2022-01-06 16:37:36,332] :  * Debugger is active!
+[INFO][2022-01-06 16:37:36,349] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:37:41,542] : 127.0.0.1 - - [06/Jan/2022 16:37:41] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:37:41,546] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[ERROR][2022-01-06 16:37:46,694] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:37:46,696] : 127.0.0.1 - - [06/Jan/2022 16:37:46] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:39:16,572] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:39:16,573] :  * Restarting with stat
+[WARNING][2022-01-06 16:39:17,788] :  * Debugger is active!
+[INFO][2022-01-06 16:39:17,809] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:39:20,384] : 127.0.0.1 - - [06/Jan/2022 16:39:20] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:39:20,388] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[ERROR][2022-01-06 16:39:24,715] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:39:24,718] : 127.0.0.1 - - [06/Jan/2022 16:39:24] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:39:50,494] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 16:39:50,915] :  * Restarting with stat
+[WARNING][2022-01-06 16:39:52,147] :  * Debugger is active!
+[INFO][2022-01-06 16:39:52,168] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:41:27,200] : 127.0.0.1 - - [06/Jan/2022 16:41:27] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:41:27,205] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[ERROR][2022-01-06 16:41:32,415] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:41:32,417] : 127.0.0.1 - - [06/Jan/2022 16:41:32] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:41:52,631] : 127.0.0.1 - - [06/Jan/2022 16:41:52] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:41:52,636] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[ERROR][2022-01-06 16:41:54,582] : Error : 10 : Error ocurred while preprocess data
+[INFO][2022-01-06 16:41:54,584] : 127.0.0.1 - - [06/Jan/2022 16:41:54] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:42:24,174] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 16:42:24,175] :  * Restarting with stat
+[WARNING][2022-01-06 16:42:25,360] :  * Debugger is active!
+[INFO][2022-01-06 16:42:25,379] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 16:42:25,952] : 127.0.0.1 - - [06/Jan/2022 16:42:25] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 16:42:25,957] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[INFO][2022-01-06 16:42:37,176] : Successfully finished work : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[INFO][2022-01-06 16:42:37,189] : 127.0.0.1 - - [06/Jan/2022 16:42:37] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:12:24,555] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 17:12:24,556] :  * Restarting with stat
+[WARNING][2022-01-06 17:12:26,379] :  * Debugger is active!
+[INFO][2022-01-06 17:12:26,397] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 17:12:37,133] : 127.0.0.1 - - [06/Jan/2022 17:12:37] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:12:37,138] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[INFO][2022-01-06 17:12:50,434] : Successfully finished work : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[INFO][2022-01-06 17:12:50,449] : 127.0.0.1 - - [06/Jan/2022 17:12:50] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:13:12,585] : 127.0.0.1 - - [06/Jan/2022 17:13:12] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:13:12,588] : Request From : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[INFO][2022-01-06 17:13:22,995] : Successfully finished work : 5cf1dbe2-f41c-4e74-a278-08f5fb93a68a
+[INFO][2022-01-06 17:13:23,011] : 127.0.0.1 - - [06/Jan/2022 17:13:23] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:21:34,569] : 127.0.0.1 - - [06/Jan/2022 17:21:34] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 17:21:34,573] : Create user directory request from : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:21:34,591] : User directory successfully created : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:21:34,591] : 127.0.0.1 - - [06/Jan/2022 17:21:34] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 17:22:01,573] : 127.0.0.1 - - [06/Jan/2022 17:22:01] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:22:01,578] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:22:11,695] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:22:11,712] : 127.0.0.1 - - [06/Jan/2022 17:22:11] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:29:54,234] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 17:29:54,908] :  * Restarting with stat
+[WARNING][2022-01-06 17:29:56,455] :  * Debugger is active!
+[INFO][2022-01-06 17:29:56,475] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 17:30:35,409] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 17:30:35,725] :  * Restarting with stat
+[WARNING][2022-01-06 17:30:37,323] :  * Debugger is active!
+[INFO][2022-01-06 17:30:37,344] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 17:31:12,478] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 17:31:12,716] :  * Restarting with stat
+[WARNING][2022-01-06 17:31:14,367] :  * Debugger is active!
+[INFO][2022-01-06 17:31:14,383] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 17:31:58,739] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 17:31:58,989] :  * Restarting with stat
+[WARNING][2022-01-06 17:32:00,677] :  * Debugger is active!
+[INFO][2022-01-06 17:32:00,695] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 17:32:19,260] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-06 17:32:19,502] :  * Restarting with stat
+[WARNING][2022-01-06 17:32:20,890] :  * Debugger is active!
+[INFO][2022-01-06 17:32:20,911] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 17:32:24,967] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-06 17:32:24,968] :  * Restarting with stat
+[WARNING][2022-01-06 17:32:26,768] :  * Debugger is active!
+[INFO][2022-01-06 17:32:26,786] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-06 17:32:49,403] : 127.0.0.1 - - [06/Jan/2022 17:32:49] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:32:49,408] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:33:01,482] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:33:01,502] : 127.0.0.1 - - [06/Jan/2022 17:33:01] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:34:54,713] : 127.0.0.1 - - [06/Jan/2022 17:34:54] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:34:54,720] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:35:04,133] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:35:04,149] : 127.0.0.1 - - [06/Jan/2022 17:35:04] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:37:03,196] : 127.0.0.1 - - [06/Jan/2022 17:37:03] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:37:03,203] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:37:12,410] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:37:12,427] : 127.0.0.1 - - [06/Jan/2022 17:37:12] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:37:45,124] : 127.0.0.1 - - [06/Jan/2022 17:37:45] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:37:45,130] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:37:54,305] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:37:54,324] : 127.0.0.1 - - [06/Jan/2022 17:37:54] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:41:04,405] : 127.0.0.1 - - [06/Jan/2022 17:41:04] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:41:04,415] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[WARNING][2022-01-06 17:41:04,470] : Error : 30 : Error occured while resize image
+[ERROR][2022-01-06 17:41:04,471] : Error message : cannot write mode RGBA as JPEG
+[INFO][2022-01-06 17:41:04,471] : 127.0.0.1 - - [06/Jan/2022 17:41:04] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:41:54,892] : 127.0.0.1 - - [06/Jan/2022 17:41:54] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:41:54,896] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:42:03,886] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:42:03,905] : 127.0.0.1 - - [06/Jan/2022 17:42:03] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:43:10,845] : 127.0.0.1 - - [06/Jan/2022 17:43:10] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:43:10,849] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:43:19,690] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:43:19,717] : 127.0.0.1 - - [06/Jan/2022 17:43:19] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:45:51,001] : 127.0.0.1 - - [06/Jan/2022 17:45:51] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:45:51,006] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:46:00,921] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:46:00,935] : 127.0.0.1 - - [06/Jan/2022 17:46:00] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:48:49,037] : 127.0.0.1 - - [06/Jan/2022 17:48:49] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:48:49,058] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:48:58,276] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:48:58,294] : 127.0.0.1 - - [06/Jan/2022 17:48:58] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:51:27,282] : 127.0.0.1 - - [06/Jan/2022 17:51:27] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:51:27,301] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:51:36,580] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:51:36,597] : 127.0.0.1 - - [06/Jan/2022 17:51:36] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:51:54,472] : 127.0.0.1 - - [06/Jan/2022 17:51:54] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:51:54,491] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:52:03,657] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:52:03,675] : 127.0.0.1 - - [06/Jan/2022 17:52:03] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:53:14,070] : 127.0.0.1 - - [06/Jan/2022 17:53:14] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:53:14,085] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:53:23,198] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:53:23,214] : 127.0.0.1 - - [06/Jan/2022 17:53:23] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:53:54,347] : 127.0.0.1 - - [06/Jan/2022 17:53:54] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:53:54,361] : Request From : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:54:03,159] : Successfully finished work : 89f2d74f-ea0a-4cdb-8a28-ecdc419af066
+[INFO][2022-01-06 17:54:03,175] : 127.0.0.1 - - [06/Jan/2022 17:54:03] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:54:05,169] : 127.0.0.1 - - [06/Jan/2022 17:54:05] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 17:54:05,173] : Create user directory request from : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:54:05,185] : User directory successfully created : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:54:05,186] : 127.0.0.1 - - [06/Jan/2022 17:54:05] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 17:54:34,985] : 127.0.0.1 - - [06/Jan/2022 17:54:34] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:54:34,990] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:54:44,384] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:54:44,408] : 127.0.0.1 - - [06/Jan/2022 17:54:44] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:55:07,294] : 127.0.0.1 - - [06/Jan/2022 17:55:07] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:55:07,301] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:55:16,924] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:55:16,946] : 127.0.0.1 - - [06/Jan/2022 17:55:16] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:57:21,359] : 127.0.0.1 - - [06/Jan/2022 17:57:21] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:57:21,366] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:57:30,699] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:57:30,726] : 127.0.0.1 - - [06/Jan/2022 17:57:30] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:58:04,371] : 127.0.0.1 - - [06/Jan/2022 17:58:04] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:58:04,377] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:58:13,715] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:58:13,741] : 127.0.0.1 - - [06/Jan/2022 17:58:13] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:59:35,864] : 127.0.0.1 - - [06/Jan/2022 17:59:35] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 17:59:35,871] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:59:45,171] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 17:59:45,194] : 127.0.0.1 - - [06/Jan/2022 17:59:45] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:02:36,010] : 127.0.0.1 - - [06/Jan/2022 18:02:36] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:02:36,018] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:02:45,315] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:02:45,338] : 127.0.0.1 - - [06/Jan/2022 18:02:45] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:03:51,581] : 127.0.0.1 - - [06/Jan/2022 18:03:51] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:03:51,588] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:04:00,962] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:04:00,986] : 127.0.0.1 - - [06/Jan/2022 18:04:00] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:04:23,974] : 127.0.0.1 - - [06/Jan/2022 18:04:23] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:04:23,979] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:04:33,079] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:04:33,103] : 127.0.0.1 - - [06/Jan/2022 18:04:33] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:05:12,499] : 127.0.0.1 - - [06/Jan/2022 18:05:12] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:05:12,507] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:05:21,793] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:05:21,816] : 127.0.0.1 - - [06/Jan/2022 18:05:21] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:06:45,311] : 127.0.0.1 - - [06/Jan/2022 18:06:45] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:06:45,319] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:06:54,958] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:06:54,981] : 127.0.0.1 - - [06/Jan/2022 18:06:54] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:07:33,683] : 127.0.0.1 - - [06/Jan/2022 18:07:33] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:07:33,687] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:07:43,390] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:07:43,413] : 127.0.0.1 - - [06/Jan/2022 18:07:43] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:11:41,844] : 127.0.0.1 - - [06/Jan/2022 18:11:41] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:11:41,851] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:11:50,994] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:11:51,017] : 127.0.0.1 - - [06/Jan/2022 18:11:51] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:13:00,697] : 127.0.0.1 - - [06/Jan/2022 18:13:00] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:13:00,705] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:13:10,459] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:13:10,482] : 127.0.0.1 - - [06/Jan/2022 18:13:10] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:15:28,052] : 127.0.0.1 - - [06/Jan/2022 18:15:28] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:15:28,057] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:15:37,053] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:15:37,067] : 127.0.0.1 - - [06/Jan/2022 18:15:37] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:15:44,527] : 127.0.0.1 - - [06/Jan/2022 18:15:44] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:15:44,532] : Request From : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:15:53,704] : Successfully finished work : 7ed1a4b6-5555-4c85-8b26-ed3cbf481413
+[INFO][2022-01-06 18:15:53,734] : 127.0.0.1 - - [06/Jan/2022 18:15:53] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:17:24,393] : 127.0.0.1 - - [06/Jan/2022 18:17:24] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 18:17:24,397] : Create user directory request from : 351dada7-0eb5-44f4-a155-2d073cc8cbe4
+[INFO][2022-01-06 18:17:24,407] : User directory successfully created : 351dada7-0eb5-44f4-a155-2d073cc8cbe4
+[INFO][2022-01-06 18:17:24,408] : 127.0.0.1 - - [06/Jan/2022 18:17:24] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 18:19:19,274] : 127.0.0.1 - - [06/Jan/2022 18:19:19] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:19:19,281] : Request From : 351dada7-0eb5-44f4-a155-2d073cc8cbe4
+[INFO][2022-01-06 18:19:28,873] : Successfully finished work : 351dada7-0eb5-44f4-a155-2d073cc8cbe4
+[INFO][2022-01-06 18:19:28,897] : 127.0.0.1 - - [06/Jan/2022 18:19:28] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:20:07,990] : 127.0.0.1 - - [06/Jan/2022 18:20:07] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 18:20:07,994] : Create user directory request from : 1a2762ea-2899-44fd-b94d-d2f6c7b56998
+[INFO][2022-01-06 18:20:08,011] : User directory successfully created : 1a2762ea-2899-44fd-b94d-d2f6c7b56998
+[INFO][2022-01-06 18:20:08,012] : 127.0.0.1 - - [06/Jan/2022 18:20:08] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 18:27:20,404] : 127.0.0.1 - - [06/Jan/2022 18:27:20] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:27:20,408] : Request From : 1a2762ea-2899-44fd-b94d-d2f6c7b56998
+[INFO][2022-01-06 18:27:29,485] : Successfully finished work : 1a2762ea-2899-44fd-b94d-d2f6c7b56998
+[INFO][2022-01-06 18:27:29,504] : 127.0.0.1 - - [06/Jan/2022 18:27:29] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:31:25,939] : 127.0.0.1 - - [06/Jan/2022 18:31:25] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 18:31:25,943] : Create user directory request from : 02fbf478-0540-496c-83f4-2f1f89a86772
+[INFO][2022-01-06 18:31:25,962] : User directory successfully created : 02fbf478-0540-496c-83f4-2f1f89a86772
+[INFO][2022-01-06 18:31:25,963] : 127.0.0.1 - - [06/Jan/2022 18:31:25] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 18:31:45,411] : 127.0.0.1 - - [06/Jan/2022 18:31:45] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 18:31:45,415] : Request From : 02fbf478-0540-496c-83f4-2f1f89a86772
+[INFO][2022-01-06 18:31:54,423] : Successfully finished work : 02fbf478-0540-496c-83f4-2f1f89a86772
+[INFO][2022-01-06 18:31:54,445] : 127.0.0.1 - - [06/Jan/2022 18:31:54] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:09:57,833] : 127.0.0.1 - - [06/Jan/2022 20:09:57] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 20:09:57,837] : Create user directory request from : 5f5dc749-3933-45d4-8cfd-c53076e0db6c
+[INFO][2022-01-06 20:09:57,854] : User directory successfully created : 5f5dc749-3933-45d4-8cfd-c53076e0db6c
+[INFO][2022-01-06 20:09:57,855] : 127.0.0.1 - - [06/Jan/2022 20:09:57] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 20:10:13,378] : 127.0.0.1 - - [06/Jan/2022 20:10:13] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:10:13,382] : Request From : 5f5dc749-3933-45d4-8cfd-c53076e0db6c
+[INFO][2022-01-06 20:10:22,630] : Successfully finished work : 5f5dc749-3933-45d4-8cfd-c53076e0db6c
+[INFO][2022-01-06 20:10:22,655] : 127.0.0.1 - - [06/Jan/2022 20:10:22] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:10:42,467] : 127.0.0.1 - - [06/Jan/2022 20:10:42] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 20:10:42,471] : Create user directory request from : 3ccc0a37-52d5-4a16-a738-ec4cddb2b554
+[INFO][2022-01-06 20:10:42,488] : User directory successfully created : 3ccc0a37-52d5-4a16-a738-ec4cddb2b554
+[INFO][2022-01-06 20:10:42,489] : 127.0.0.1 - - [06/Jan/2022 20:10:42] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 20:11:56,699] : 127.0.0.1 - - [06/Jan/2022 20:11:56] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:11:56,702] : Request From : 3ccc0a37-52d5-4a16-a738-ec4cddb2b554
+[WARNING][2022-01-06 20:11:56,778] : Error : 30 : Error occured while resize image
+[ERROR][2022-01-06 20:11:56,778] : Error message : cannot identify image file '../user_requests/3ccc0a37-52d5-4a16-a738-ec4cddb2b554/image/custom_model_whole_front.png'
+[INFO][2022-01-06 20:11:56,779] : 127.0.0.1 - - [06/Jan/2022 20:11:56] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:11:59,130] : Request From : 3ccc0a37-52d5-4a16-a738-ec4cddb2b554
+[WARNING][2022-01-06 20:11:59,150] : Error : 30 : Error occured while resize image
+[ERROR][2022-01-06 20:11:59,151] : Error message : cannot identify image file '../user_requests/3ccc0a37-52d5-4a16-a738-ec4cddb2b554/image/custom_model_whole_front.png'
+[INFO][2022-01-06 20:11:59,151] : 127.0.0.1 - - [06/Jan/2022 20:11:59] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:12:12,030] : 127.0.0.1 - - [06/Jan/2022 20:12:12] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:12:12,032] : Request From : 3ccc0a37-52d5-4a16-a738-ec4cddb2b554
+[WARNING][2022-01-06 20:12:12,058] : Error : 30 : Error occured while resize image
+[ERROR][2022-01-06 20:12:12,058] : Error message : cannot identify image file '../user_requests/3ccc0a37-52d5-4a16-a738-ec4cddb2b554/image/custom_model_whole_front.png'
+[INFO][2022-01-06 20:12:12,059] : 127.0.0.1 - - [06/Jan/2022 20:12:12] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:12:47,527] : 127.0.0.1 - - [06/Jan/2022 20:12:47] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:12:47,531] : Request From : 3ccc0a37-52d5-4a16-a738-ec4cddb2b554
+[INFO][2022-01-06 20:12:56,375] : Successfully finished work : 3ccc0a37-52d5-4a16-a738-ec4cddb2b554
+[INFO][2022-01-06 20:12:56,390] : 127.0.0.1 - - [06/Jan/2022 20:12:56] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-06 20:15:31,995] : 127.0.0.1 - - [06/Jan/2022 20:15:31] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-06 20:15:31,999] : Create user directory request from : 5326fcc5-b182-4b29-9319-354b963c5cca
+[INFO][2022-01-06 20:15:32,014] : User directory successfully created : 5326fcc5-b182-4b29-9319-354b963c5cca
+[INFO][2022-01-06 20:15:32,015] : 127.0.0.1 - - [06/Jan/2022 20:15:32] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 14:19:44,586] : 127.0.0.1 - - [07/Jan/2022 14:19:44] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 14:19:44,589] : Create user directory request from : 4098604c-226d-45b7-a33f-a1f60ab4b5ce
+[INFO][2022-01-07 14:19:44,606] : User directory successfully created : 4098604c-226d-45b7-a33f-a1f60ab4b5ce
+[INFO][2022-01-07 14:19:44,607] : 127.0.0.1 - - [07/Jan/2022 14:19:44] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 14:21:04,975] : 127.0.0.1 - - [07/Jan/2022 14:21:04] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 14:21:04,980] : Request From : 4098604c-226d-45b7-a33f-a1f60ab4b5ce
+[INFO][2022-01-07 14:21:16,026] : Successfully finished work : 4098604c-226d-45b7-a33f-a1f60ab4b5ce
+[INFO][2022-01-07 14:21:16,052] : 127.0.0.1 - - [07/Jan/2022 14:21:16] "POST /wtf/3dtryon HTTP/1.1" 200 -

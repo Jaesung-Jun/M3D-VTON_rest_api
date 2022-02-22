@@ -1,0 +1,441 @@
+[INFO][2022-01-07 15:57:50,067] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-07 15:57:50,068] :  * Restarting with stat
+[WARNING][2022-01-07 15:57:51,184] :  * Debugger is active!
+[INFO][2022-01-07 15:57:51,204] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-07 15:59:27,321] : 127.0.0.1 - - [07/Jan/2022 15:59:27] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 15:59:27,324] : Create user directory request from : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 15:59:27,339] : User directory successfully created : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 15:59:27,340] : 127.0.0.1 - - [07/Jan/2022 15:59:27] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 15:59:46,325] : 127.0.0.1 - - [07/Jan/2022 15:59:46] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 15:59:46,329] : Request From : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 15:59:57,820] : Successfully finished work : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 15:59:57,912] : 127.0.0.1 - - [07/Jan/2022 15:59:57] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:00:23,568] : 127.0.0.1 - - [07/Jan/2022 16:00:23] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:00:23,572] : Request From : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:00:33,527] : Successfully finished work : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:00:33,623] : 127.0.0.1 - - [07/Jan/2022 16:00:33] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:00:46,339] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-07 16:00:46,877] :  * Restarting with stat
+[INFO][2022-01-07 16:00:50,334] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-07 16:00:50,335] :  * Restarting with stat
+[WARNING][2022-01-07 16:00:51,973] :  * Debugger is active!
+[INFO][2022-01-07 16:00:51,991] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-07 16:01:08,054] : 127.0.0.1 - - [07/Jan/2022 16:01:08] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:01:08,060] : Request From : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:01:21,233] : Successfully finished work : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:01:21,258] : 127.0.0.1 - - [07/Jan/2022 16:01:21] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:02:32,308] : 127.0.0.1 - - [07/Jan/2022 16:02:32] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:02:32,313] : Request From : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:02:42,413] : Successfully finished work : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:02:42,439] : 127.0.0.1 - - [07/Jan/2022 16:02:42] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:03:04,304] : 127.0.0.1 - - [07/Jan/2022 16:03:04] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:03:04,308] : Request From : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:03:14,158] : Successfully finished work : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:03:14,177] : 127.0.0.1 - - [07/Jan/2022 16:03:14] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:03:49,668] : 127.0.0.1 - - [07/Jan/2022 16:03:49] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:03:49,672] : Request From : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:03:59,280] : Successfully finished work : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:03:59,300] : 127.0.0.1 - - [07/Jan/2022 16:03:59] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:08:35,282] : 127.0.0.1 - - [07/Jan/2022 16:08:35] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:08:35,286] : Request From : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:08:45,745] : Successfully finished work : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:08:45,763] : 127.0.0.1 - - [07/Jan/2022 16:08:45] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:09:34,710] : 127.0.0.1 - - [07/Jan/2022 16:09:34] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:09:34,715] : Request From : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:09:44,342] : Successfully finished work : ebe0a779-7be2-4bd9-ac9c-ffda17c03d33
+[INFO][2022-01-07 16:09:44,367] : 127.0.0.1 - - [07/Jan/2022 16:09:44] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:25:05,651] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-07 16:25:06,099] :  * Restarting with stat
+[WARNING][2022-01-07 16:25:07,394] :  * Debugger is active!
+[INFO][2022-01-07 16:25:07,414] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-07 16:25:12,829] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-07 16:25:13,030] :  * Restarting with stat
+[WARNING][2022-01-07 16:25:14,232] :  * Debugger is active!
+[INFO][2022-01-07 16:25:14,254] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-07 16:30:39,123] :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-07 16:30:39,124] :  * Restarting with stat
+[WARNING][2022-01-07 16:30:40,319] :  * Debugger is active!
+[INFO][2022-01-07 16:30:40,340] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-07 16:30:58,608] : 127.0.0.1 - - [07/Jan/2022 16:30:58] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:30:58,612] : Create user directory request from : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:30:58,622] : User directory successfully created : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:30:58,623] : 127.0.0.1 - - [07/Jan/2022 16:30:58] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:31:07,301] : 127.0.0.1 - - [07/Jan/2022 16:31:07] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:31:07,306] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:31:19,888] : Successfully finished work : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:31:19,917] : 127.0.0.1 - - [07/Jan/2022 16:31:19] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:31:58,816] : 127.0.0.1 - - [07/Jan/2022 16:31:58] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:31:58,822] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:32:09,404] : Successfully finished work : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:32:09,438] : 127.0.0.1 - - [07/Jan/2022 16:32:09] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:32:15,637] : 127.0.0.1 - - [07/Jan/2022 16:32:15] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:32:15,641] : Create user directory request from : 6c447c2f-88fd-445d-94de-5ba22cb50ded
+[INFO][2022-01-07 16:32:15,656] : User directory successfully created : 6c447c2f-88fd-445d-94de-5ba22cb50ded
+[INFO][2022-01-07 16:32:15,657] : 127.0.0.1 - - [07/Jan/2022 16:32:15] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:32:35,902] : 127.0.0.1 - - [07/Jan/2022 16:32:35] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:32:35,907] : Request From : 6c447c2f-88fd-445d-94de-5ba22cb50ded
+[INFO][2022-01-07 16:32:37,438] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:32:49,651] : Successfully finished work : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:32:49,676] : 127.0.0.1 - - [07/Jan/2022 16:32:49] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:34:13,985] : 127.0.0.1 - - [07/Jan/2022 16:34:13] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:34:13,989] : Create user directory request from : e7cdcfb2-ea0a-42cf-b172-b93a9bafd768
+[INFO][2022-01-07 16:34:13,996] : User directory successfully created : e7cdcfb2-ea0a-42cf-b172-b93a9bafd768
+[INFO][2022-01-07 16:34:13,997] : 127.0.0.1 - - [07/Jan/2022 16:34:13] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:34:31,326] : 127.0.0.1 - - [07/Jan/2022 16:34:31] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:34:31,330] : Request From : e7cdcfb2-ea0a-42cf-b172-b93a9bafd768
+[INFO][2022-01-07 16:34:34,182] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:34:45,582] : Successfully finished work : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:34:45,625] : 127.0.0.1 - - [07/Jan/2022 16:34:45] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:35:01,281] : 127.0.0.1 - - [07/Jan/2022 16:35:01] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:35:01,285] : Create user directory request from : a1cd9882-aff5-49d9-aaa9-8e6748c93279
+[INFO][2022-01-07 16:35:01,301] : User directory successfully created : a1cd9882-aff5-49d9-aaa9-8e6748c93279
+[INFO][2022-01-07 16:35:01,302] : 127.0.0.1 - - [07/Jan/2022 16:35:01] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:35:14,322] : 127.0.0.1 - - [07/Jan/2022 16:35:14] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:35:14,326] : Request From : a1cd9882-aff5-49d9-aaa9-8e6748c93279
+[INFO][2022-01-07 16:35:25,460] : Successfully finished work : a1cd9882-aff5-49d9-aaa9-8e6748c93279
+[INFO][2022-01-07 16:35:25,481] : 127.0.0.1 - - [07/Jan/2022 16:35:25] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:35:43,216] : 127.0.0.1 - - [07/Jan/2022 16:35:43] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:35:43,222] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:35:44,487] : Request From : a1cd9882-aff5-49d9-aaa9-8e6748c93279
+[INFO][2022-01-07 16:35:55,119] : Successfully finished work : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:35:55,161] : 127.0.0.1 - - [07/Jan/2022 16:35:55] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:36:18,791] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/model_inference.py', reloading
+[INFO][2022-01-07 16:36:19,501] :  * Restarting with stat
+[WARNING][2022-01-07 16:36:20,755] :  * Debugger is active!
+[INFO][2022-01-07 16:36:20,774] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-07 16:36:21,336] : 127.0.0.1 - - [07/Jan/2022 16:36:21] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:36:21,339] : Create user directory request from : 16ba15e7-f72c-4780-90fb-b947b7d9fc52
+[INFO][2022-01-07 16:36:21,356] : User directory successfully created : 16ba15e7-f72c-4780-90fb-b947b7d9fc52
+[INFO][2022-01-07 16:36:21,357] : 127.0.0.1 - - [07/Jan/2022 16:36:21] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:36:28,636] : 127.0.0.1 - - [07/Jan/2022 16:36:28] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:36:28,641] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:36:31,413] : Request From : 16ba15e7-f72c-4780-90fb-b947b7d9fc52
+[INFO][2022-01-07 16:36:44,134] : Successfully finished work : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:36:44,171] : 127.0.0.1 - - [07/Jan/2022 16:36:44] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:36:45,242] : Successfully finished work : 16ba15e7-f72c-4780-90fb-b947b7d9fc52
+[INFO][2022-01-07 16:36:45,259] : 127.0.0.1 - - [07/Jan/2022 16:36:45] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:37:07,375] : 127.0.0.1 - - [07/Jan/2022 16:37:07] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:37:07,380] : Request From : 16ba15e7-f72c-4780-90fb-b947b7d9fc52
+[INFO][2022-01-07 16:37:09,640] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:37:20,000] : Successfully finished work : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:37:20,026] : 127.0.0.1 - - [07/Jan/2022 16:37:20] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:38:05,249] : 127.0.0.1 - - [07/Jan/2022 16:38:05] "OPTIONS /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:38:05,254] : Create user directory request from : 6d62b96f-2d1f-411a-9730-324bb11b817f
+[INFO][2022-01-07 16:38:05,264] : User directory successfully created : 6d62b96f-2d1f-411a-9730-324bb11b817f
+[INFO][2022-01-07 16:38:05,265] : 127.0.0.1 - - [07/Jan/2022 16:38:05] "POST /wtf/user_directory HTTP/1.1" 200 -
+[INFO][2022-01-07 16:38:15,068] : 127.0.0.1 - - [07/Jan/2022 16:38:15] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:38:15,071] : Request From : 6d62b96f-2d1f-411a-9730-324bb11b817f
+[INFO][2022-01-07 16:38:18,893] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:38:24,602] : Successfully finished work : 6d62b96f-2d1f-411a-9730-324bb11b817f
+[INFO][2022-01-07 16:38:24,616] : 127.0.0.1 - - [07/Jan/2022 16:38:24] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:38:28,540] : Successfully finished work : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:38:28,563] : 127.0.0.1 - - [07/Jan/2022 16:38:28] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:38:42,358] : 127.0.0.1 - - [07/Jan/2022 16:38:42] "OPTIONS /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:38:42,365] : Request From : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 16:38:44,708] : Request From : 6d62b96f-2d1f-411a-9730-324bb11b817f
+[INFO][2022-01-07 16:38:54,554] : Successfully finished work : 6d62b96f-2d1f-411a-9730-324bb11b817f
+[INFO][2022-01-07 16:38:54,568] : 127.0.0.1 - - [07/Jan/2022 16:38:54] "POST /wtf/3dtryon HTTP/1.1" 200 -
+[INFO][2022-01-07 16:39:19,475] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/model_inference.py', reloading
+[INFO][2022-01-07 16:39:20,211] :  * Restarting with stat
+[WARNING][2022-01-07 16:39:21,545] :  * Debugger is active!
+[INFO][2022-01-07 16:39:21,563] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-07 16:44:42,217] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-07 16:44:42,445] :  * Restarting with stat
+[WARNING][2022-01-07 16:44:43,962] :  * Debugger is active!
+[INFO][2022-01-07 16:44:43,979] :  * Debugger PIN: 132-417-524
+[INFO][2022-01-07 16:45:58,024] :  * Detected change in '/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/server_execute.py', reloading
+[INFO][2022-01-07 16:45:58,245] :  * Restarting with stat
+[WARNING][2022-01-07 16:45:59,694] :  * Debugger is active!
+[INFO][2022-01-07 16:45:59,715] :  * Debugger PIN: 132-417-524
+[WARNING][2022-01-07 16:56:17,867] :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[INFO][2022-01-07 16:56:17,867] :  * Running on http://192.168.154.29:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-07 16:56:17,884] : 192.168.154.254 - - [07/Jan/2022 16:56:17] "[33mGET /wtf/directory HTTP/1.1[0m" 404 -
+[INFO][2022-01-07 16:56:18,305] : 192.168.154.254 - - [07/Jan/2022 16:56:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[INFO][2022-01-07 16:56:22,756] : 192.168.154.254 - - [07/Jan/2022 16:56:22] "[33mGET /wtf/directory/ HTTP/1.1[0m" 404 -
+[INFO][2022-01-07 16:56:26,062] : 192.168.154.254 - - [07/Jan/2022 16:56:26] "[33mGET /wtf HTTP/1.1[0m" 404 -
+[INFO][2022-01-07 16:56:45,841] : 192.168.154.254 - - [07/Jan/2022 16:56:45] "GET / HTTP/1.1" 200 -
+[INFO][2022-01-07 16:56:55,005] : 192.168.154.254 - - [07/Jan/2022 16:56:55] "[31m[1mGET /wtf/user_directory HTTP/1.1[0m" 405 -
+[WARNING][2022-01-07 16:57:19,819] :  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[INFO][2022-01-07 16:57:19,819] :  * Running on http://192.168.154.29:5000/ (Press CTRL+C to quit)
+[INFO][2022-01-07 17:01:51,655] : Serving on http://0.0.0.0:5000
+[INFO][2022-01-07 17:05:34,900] : Create user directory request from : 5c03b3f2-6b76-4998-af52-6db7d3990e05
+[INFO][2022-01-07 17:05:34,913] : User directory successfully created : 5c03b3f2-6b76-4998-af52-6db7d3990e05
+[INFO][2022-01-07 17:05:35,192] : Create user directory request from : 6d62b96f-2d1f-411a-9730-324bb11b817f
+[WARNING][2022-01-07 17:05:35,192] : User directory already exists : 6d62b96f-2d1f-411a-9730-324bb11b817f
+[INFO][2022-01-07 17:05:35,204] : Create user directory request from : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[WARNING][2022-01-07 17:05:35,205] : User directory already exists : 2241c98a-7883-4a7b-ad30-7bbcefb64eb8
+[INFO][2022-01-07 17:05:40,370] : Create user directory request from : 5f479bb1-2e7a-48c0-a0cc-ccf078caef9a
+[INFO][2022-01-07 17:05:40,380] : User directory successfully created : 5f479bb1-2e7a-48c0-a0cc-ccf078caef9a
+[INFO][2022-01-07 17:06:02,880] : Request From : 5f479bb1-2e7a-48c0-a0cc-ccf078caef9a
+[INFO][2022-01-07 17:06:14,456] : Successfully finished work : 5f479bb1-2e7a-48c0-a0cc-ccf078caef9a
+[INFO][2022-01-07 17:06:46,493] : Create user directory request from : 06cb02f1-1e14-4f1e-9377-202942215276
+[INFO][2022-01-07 17:06:46,503] : User directory successfully created : 06cb02f1-1e14-4f1e-9377-202942215276
+[INFO][2022-01-07 17:07:05,600] : Request From : 06cb02f1-1e14-4f1e-9377-202942215276
+[WARNING][2022-01-07 17:07:05,649] : Error : 30 : Error occured while resize image
+[ERROR][2022-01-07 17:07:05,650] : Error message : cannot identify image file '../user_requests/06cb02f1-1e14-4f1e-9377-202942215276/cloth/custom_cloth_front.jpg'
+[INFO][2022-01-07 17:07:07,438] : Request From : 06cb02f1-1e14-4f1e-9377-202942215276
+[WARNING][2022-01-07 17:07:07,438] : Error : 30 : Error occured while resize image
+[ERROR][2022-01-07 17:07:07,438] : Error message : cannot identify image file '../user_requests/06cb02f1-1e14-4f1e-9377-202942215276/cloth/custom_cloth_front.jpg'
+[INFO][2022-01-07 17:07:09,326] : Request From : 06cb02f1-1e14-4f1e-9377-202942215276
+[WARNING][2022-01-07 17:07:09,327] : Error : 30 : Error occured while resize image
+[ERROR][2022-01-07 17:07:09,327] : Error message : cannot identify image file '../user_requests/06cb02f1-1e14-4f1e-9377-202942215276/cloth/custom_cloth_front.jpg'
+[INFO][2022-01-07 17:16:12,196] : Create user directory request from : fbbb75d7-9f0b-49ac-bb84-3965fedc95b7
+[INFO][2022-01-07 17:16:12,207] : User directory successfully created : fbbb75d7-9f0b-49ac-bb84-3965fedc95b7
+[INFO][2022-01-07 17:16:36,196] : Request From : fbbb75d7-9f0b-49ac-bb84-3965fedc95b7
+[INFO][2022-01-07 17:16:44,175] : Successfully finished work : fbbb75d7-9f0b-49ac-bb84-3965fedc95b7
+[INFO][2022-01-07 17:16:51,091] : Create user directory request from : c60d6af2-85fe-4ffb-9b5b-c612d49187de
+[INFO][2022-01-07 17:16:51,103] : User directory successfully created : c60d6af2-85fe-4ffb-9b5b-c612d49187de
+[INFO][2022-01-07 17:17:07,883] : Request From : c60d6af2-85fe-4ffb-9b5b-c612d49187de
+[INFO][2022-01-07 17:17:15,473] : Successfully finished work : c60d6af2-85fe-4ffb-9b5b-c612d49187de
+[INFO][2022-01-07 17:27:53,068] : Create user directory request from : 495bf6ef-c40e-4579-97fe-6ca475703816
+[INFO][2022-01-07 17:27:53,078] : User directory successfully created : 495bf6ef-c40e-4579-97fe-6ca475703816
+[INFO][2022-01-07 17:27:54,447] : Create user directory request from : e8de0e6c-6959-40b7-aab8-d0fbb6fb26e9
+[INFO][2022-01-07 17:27:54,455] : User directory successfully created : e8de0e6c-6959-40b7-aab8-d0fbb6fb26e9
+[INFO][2022-01-07 18:18:09,069] : Serving on http://0.0.0.0:5000
+[INFO][2022-01-07 18:24:43,860] : Create user directory request from : f37bc95b-d7c8-44ae-9920-eff259714cd4
+[INFO][2022-01-07 18:24:43,871] : User directory successfully created : f37bc95b-d7c8-44ae-9920-eff259714cd4
+[INFO][2022-01-07 18:25:01,887] : Create user directory request from : d1e57eba-e3d5-43ea-a71d-cf4e773ea6de
+[INFO][2022-01-07 18:25:01,898] : User directory successfully created : d1e57eba-e3d5-43ea-a71d-cf4e773ea6de
+[INFO][2022-01-07 18:26:18,429] : Request From : d1e57eba-e3d5-43ea-a71d-cf4e773ea6de
+[INFO][2022-01-07 18:26:28,099] : Successfully finished work : d1e57eba-e3d5-43ea-a71d-cf4e773ea6de
+[INFO][2022-01-07 18:27:25,646] : Create user directory request from : bb68626e-a848-4760-adce-e47461946774
+[INFO][2022-01-07 18:27:25,658] : User directory successfully created : bb68626e-a848-4760-adce-e47461946774
+[INFO][2022-01-07 18:27:36,581] : Create user directory request from : 63b27fcf-8572-449e-8da3-a391be356265
+[INFO][2022-01-07 18:27:36,592] : User directory successfully created : 63b27fcf-8572-449e-8da3-a391be356265
+[INFO][2022-01-07 18:27:42,472] : Create user directory request from : 1f14fcb1-f50c-4656-8e7d-0fc15a82c2b6
+[INFO][2022-01-07 18:27:42,483] : User directory successfully created : 1f14fcb1-f50c-4656-8e7d-0fc15a82c2b6
+[INFO][2022-01-07 18:28:02,521] : Request From : 1f14fcb1-f50c-4656-8e7d-0fc15a82c2b6
+[INFO][2022-01-07 18:28:10,452] : Successfully finished work : 1f14fcb1-f50c-4656-8e7d-0fc15a82c2b6
+[INFO][2022-01-07 18:28:22,601] : Create user directory request from : 631cdea1-7855-404f-808c-9aedc52d2ab3
+[INFO][2022-01-07 18:28:22,613] : User directory successfully created : 631cdea1-7855-404f-808c-9aedc52d2ab3
+[INFO][2022-01-07 18:28:32,884] : Request From : 631cdea1-7855-404f-808c-9aedc52d2ab3
+[INFO][2022-01-07 18:28:40,677] : Successfully finished work : 631cdea1-7855-404f-808c-9aedc52d2ab3
+[INFO][2022-01-07 18:29:18,770] : Create user directory request from : 4b044ccb-3047-4034-9075-10b099cb5b1c
+[INFO][2022-01-07 18:29:18,780] : User directory successfully created : 4b044ccb-3047-4034-9075-10b099cb5b1c
+[INFO][2022-01-07 18:29:49,954] : Create user directory request from : 5fa77d24-e39f-4c22-9a31-a24d1d126c1c
+[INFO][2022-01-07 18:29:49,964] : User directory successfully created : 5fa77d24-e39f-4c22-9a31-a24d1d126c1c
+[INFO][2022-01-07 18:35:36,766] : Create user directory request from : 3f07130f-cc68-47f1-bbbb-d324480bd8e0
+[INFO][2022-01-07 18:35:36,778] : User directory successfully created : 3f07130f-cc68-47f1-bbbb-d324480bd8e0
+[INFO][2022-01-07 18:36:08,608] : Create user directory request from : b21f4d6c-3fab-48c2-9742-900b19a1d754
+[INFO][2022-01-07 18:36:08,619] : User directory successfully created : b21f4d6c-3fab-48c2-9742-900b19a1d754
+[INFO][2022-01-07 18:38:42,158] : Create user directory request from : 0103a61e-bb63-4032-8fe4-d32b731a4f8a
+[INFO][2022-01-07 18:38:42,170] : User directory successfully created : 0103a61e-bb63-4032-8fe4-d32b731a4f8a
+[INFO][2022-01-07 18:38:46,322] : Create user directory request from : b11b96af-837f-436b-a086-52f1bb26ed0a
+[INFO][2022-01-07 18:38:46,333] : User directory successfully created : b11b96af-837f-436b-a086-52f1bb26ed0a
+[INFO][2022-01-07 18:39:56,903] : Create user directory request from : 89f78755-e3da-49af-bf0c-54bdea613221
+[INFO][2022-01-07 18:39:56,914] : User directory successfully created : 89f78755-e3da-49af-bf0c-54bdea613221
+[INFO][2022-01-07 18:41:23,675] : Create user directory request from : 3f050851-cf99-4c08-90f0-00dcbb5347e6
+[INFO][2022-01-07 18:41:23,688] : User directory successfully created : 3f050851-cf99-4c08-90f0-00dcbb5347e6
+[INFO][2022-01-07 18:41:53,132] : Create user directory request from : 92c6e581-c53e-4df3-8946-d551de368c05
+[INFO][2022-01-07 18:41:53,144] : User directory successfully created : 92c6e581-c53e-4df3-8946-d551de368c05
+[INFO][2022-01-07 18:42:05,022] : Create user directory request from : 8b410d4f-837f-4fe7-ad3b-954bbb01688a
+[INFO][2022-01-07 18:42:05,034] : User directory successfully created : 8b410d4f-837f-4fe7-ad3b-954bbb01688a
+[INFO][2022-01-07 18:44:30,012] : Create user directory request from : 5e773452-8ee2-4985-b066-9326d03d659f
+[INFO][2022-01-07 18:44:30,026] : User directory successfully created : 5e773452-8ee2-4985-b066-9326d03d659f
+[INFO][2022-01-07 18:48:24,574] : Create user directory request from : d94389c1-19ba-4670-8a1b-c0eec747114e
+[INFO][2022-01-07 18:48:24,584] : User directory successfully created : d94389c1-19ba-4670-8a1b-c0eec747114e
+[INFO][2022-01-07 18:48:24,973] : Create user directory request from : 8298786d-63e0-4ccd-9f80-3eefbe700205
+[INFO][2022-01-07 18:48:24,986] : User directory successfully created : 8298786d-63e0-4ccd-9f80-3eefbe700205
+[INFO][2022-01-07 18:48:25,446] : Create user directory request from : efa5c255-aa1e-4194-b58c-7bfcb6b84052
+[INFO][2022-01-07 18:48:25,457] : User directory successfully created : efa5c255-aa1e-4194-b58c-7bfcb6b84052
+[INFO][2022-01-07 18:48:26,342] : Create user directory request from : 00029afd-b043-46bd-ab69-3c957b6a3bd5
+[INFO][2022-01-07 18:48:26,349] : User directory successfully created : 00029afd-b043-46bd-ab69-3c957b6a3bd5
+[INFO][2022-01-07 18:48:53,753] : Create user directory request from : 015b4bda-d5aa-4d31-82b2-54b43b5a57af
+[INFO][2022-01-07 18:48:53,763] : User directory successfully created : 015b4bda-d5aa-4d31-82b2-54b43b5a57af
+[INFO][2022-01-07 18:58:24,848] : Create user directory request from : 7e907fc7-0657-4b55-a91c-d41d220f55ab
+[INFO][2022-01-07 18:58:24,859] : User directory successfully created : 7e907fc7-0657-4b55-a91c-d41d220f55ab
+[INFO][2022-01-07 18:58:40,647] : Create user directory request from : d710cb2f-5e58-496a-b1ab-459b25fc40f4
+[INFO][2022-01-07 18:58:40,660] : User directory successfully created : d710cb2f-5e58-496a-b1ab-459b25fc40f4
+[INFO][2022-01-07 19:00:34,759] : Create user directory request from : 0ece46d6-ca43-42d9-b365-5b7fd7373a37
+[INFO][2022-01-07 19:00:34,770] : User directory successfully created : 0ece46d6-ca43-42d9-b365-5b7fd7373a37
+[INFO][2022-01-07 19:01:21,665] : Create user directory request from : f2b282ac-8a63-4f44-a609-1b1e689513aa
+[INFO][2022-01-07 19:01:21,677] : User directory successfully created : f2b282ac-8a63-4f44-a609-1b1e689513aa
+[INFO][2022-01-07 19:02:15,401] : Create user directory request from : 3fc8dd7e-4ce7-40a0-8c07-81b0fe81269b
+[INFO][2022-01-07 19:02:15,412] : User directory successfully created : 3fc8dd7e-4ce7-40a0-8c07-81b0fe81269b
+[INFO][2022-01-07 19:02:18,633] : Create user directory request from : 28c92995-b915-497e-b4ce-93c3efa560c4
+[INFO][2022-01-07 19:02:18,642] : User directory successfully created : 28c92995-b915-497e-b4ce-93c3efa560c4
+[INFO][2022-01-07 19:02:39,927] : Create user directory request from : 70eb791e-fd5d-45a4-a9d1-8bb4da34fcd3
+[INFO][2022-01-07 19:02:39,939] : User directory successfully created : 70eb791e-fd5d-45a4-a9d1-8bb4da34fcd3
+[INFO][2022-01-07 19:03:19,112] : Create user directory request from : 3413304e-edf1-4ca2-b5f8-303a84e008a8
+[INFO][2022-01-07 19:03:19,123] : User directory successfully created : 3413304e-edf1-4ca2-b5f8-303a84e008a8
+[INFO][2022-01-07 19:04:30,613] : Request From : 3413304e-edf1-4ca2-b5f8-303a84e008a8
+[INFO][2022-01-07 19:04:38,554] : Successfully finished work : 3413304e-edf1-4ca2-b5f8-303a84e008a8
+[INFO][2022-01-07 19:10:48,618] : Create user directory request from : 5b390d58-3190-448e-9eee-ccc348dfae67
+[INFO][2022-01-07 19:10:48,626] : User directory successfully created : 5b390d58-3190-448e-9eee-ccc348dfae67
+[INFO][2022-01-07 19:11:31,565] : Create user directory request from : c638b3f4-a00e-4918-9c8e-9fb6ec0c942e
+[INFO][2022-01-07 19:11:31,576] : User directory successfully created : c638b3f4-a00e-4918-9c8e-9fb6ec0c942e
+[INFO][2022-01-07 19:11:49,569] : Create user directory request from : 0b076d9c-33f7-4739-a6d9-8d5ba3331cfa
+[INFO][2022-01-07 19:11:49,582] : User directory successfully created : 0b076d9c-33f7-4739-a6d9-8d5ba3331cfa
+[INFO][2022-01-07 19:11:51,147] : Create user directory request from : 9da30955-7295-42a5-ba87-376e1bb150e6
+[INFO][2022-01-07 19:11:51,158] : User directory successfully created : 9da30955-7295-42a5-ba87-376e1bb150e6
+[INFO][2022-01-07 19:12:08,489] : Create user directory request from : 4f942a3c-529d-447b-9703-c7d54eeb69ec
+[INFO][2022-01-07 19:12:08,499] : User directory successfully created : 4f942a3c-529d-447b-9703-c7d54eeb69ec
+[INFO][2022-01-07 19:12:27,094] : Create user directory request from : 054b387a-cef1-4106-82b9-08dd4fb5eaf2
+[INFO][2022-01-07 19:12:27,102] : User directory successfully created : 054b387a-cef1-4106-82b9-08dd4fb5eaf2
+[INFO][2022-01-07 19:15:47,146] : Create user directory request from : b8461e24-0c9d-41e7-a3bf-8387a80fe783
+[INFO][2022-01-07 19:15:47,158] : User directory successfully created : b8461e24-0c9d-41e7-a3bf-8387a80fe783
+[INFO][2022-01-07 19:16:44,351] : Create user directory request from : 9875658e-80e4-421b-bbd6-1fbdc899d5f0
+[INFO][2022-01-07 19:16:44,364] : User directory successfully created : 9875658e-80e4-421b-bbd6-1fbdc899d5f0
+[INFO][2022-01-07 19:17:23,298] : Create user directory request from : 64e72a8e-c2c1-404c-a332-4306aad40a46
+[INFO][2022-01-07 19:17:23,309] : User directory successfully created : 64e72a8e-c2c1-404c-a332-4306aad40a46
+[INFO][2022-01-07 19:19:47,706] : Create user directory request from : 08bfb78e-ca79-4253-9723-0bb3473c18cf
+[INFO][2022-01-07 19:19:47,716] : User directory successfully created : 08bfb78e-ca79-4253-9723-0bb3473c18cf
+[INFO][2022-01-07 19:19:55,177] : Create user directory request from : c1a70330-a749-4966-accf-63ddbfdd2eee
+[INFO][2022-01-07 19:19:55,189] : User directory successfully created : c1a70330-a749-4966-accf-63ddbfdd2eee
+[INFO][2022-01-07 19:20:11,339] : Create user directory request from : 950996c9-66ed-4e01-be74-f9414a18c27d
+[INFO][2022-01-07 19:20:11,350] : User directory successfully created : 950996c9-66ed-4e01-be74-f9414a18c27d
+[INFO][2022-01-07 19:21:17,590] : Create user directory request from : 3c7d6406-6102-4d38-b541-3b8286b4d9c0
+[INFO][2022-01-07 19:21:17,605] : User directory successfully created : 3c7d6406-6102-4d38-b541-3b8286b4d9c0
+[INFO][2022-01-07 19:22:25,094] : Create user directory request from : 924ad965-90f2-4ffb-90f9-4817706aae95
+[INFO][2022-01-07 19:22:25,106] : User directory successfully created : 924ad965-90f2-4ffb-90f9-4817706aae95
+[INFO][2022-01-07 19:24:34,150] : Create user directory request from : 31458863-2b39-46a3-9df7-76c15d5d2d3d
+[INFO][2022-01-07 19:24:34,159] : User directory successfully created : 31458863-2b39-46a3-9df7-76c15d5d2d3d
+[INFO][2022-01-07 19:25:01,317] : Create user directory request from : dc84adbf-6481-4612-9a81-0aac465e223d
+[INFO][2022-01-07 19:25:01,330] : User directory successfully created : dc84adbf-6481-4612-9a81-0aac465e223d
+[INFO][2022-01-07 19:25:26,974] : Create user directory request from : f215edc9-e8e1-4209-bd1b-62a2b883a964
+[INFO][2022-01-07 19:25:26,984] : User directory successfully created : f215edc9-e8e1-4209-bd1b-62a2b883a964
+[INFO][2022-01-07 19:25:49,468] : Create user directory request from : b7c9c98c-3811-4b79-a286-77cedb2c2bf9
+[INFO][2022-01-07 19:25:49,483] : User directory successfully created : b7c9c98c-3811-4b79-a286-77cedb2c2bf9
+[INFO][2022-01-07 19:26:20,581] : Create user directory request from : 5ac80ab8-0f7c-48a5-9680-5b3e85bc5887
+[INFO][2022-01-07 19:26:20,594] : User directory successfully created : 5ac80ab8-0f7c-48a5-9680-5b3e85bc5887
+[INFO][2022-01-07 19:26:54,546] : Create user directory request from : 18e834bd-0ca0-48f0-81a5-33dde19c68eb
+[INFO][2022-01-07 19:26:54,555] : User directory successfully created : 18e834bd-0ca0-48f0-81a5-33dde19c68eb
+[INFO][2022-01-07 19:27:18,626] : Create user directory request from : 1143d4fb-cf1c-4dda-8c6a-9925a4ca68b2
+[INFO][2022-01-07 19:27:18,638] : User directory successfully created : 1143d4fb-cf1c-4dda-8c6a-9925a4ca68b2
+[INFO][2022-01-07 19:27:49,000] : Create user directory request from : b295e6ce-895e-4666-b322-378c02a6e788
+[INFO][2022-01-07 19:27:49,015] : User directory successfully created : b295e6ce-895e-4666-b322-378c02a6e788
+[INFO][2022-01-07 19:35:01,773] : Create user directory request from : c6f95eae-4e30-4977-8839-afd7f68b0acc
+[INFO][2022-01-07 19:35:01,787] : User directory successfully created : c6f95eae-4e30-4977-8839-afd7f68b0acc
+[INFO][2022-01-07 19:36:45,017] : Create user directory request from : bcf2d620-ea21-416c-bbf2-e51439363b67
+[INFO][2022-01-07 19:36:45,029] : User directory successfully created : bcf2d620-ea21-416c-bbf2-e51439363b67
+[INFO][2022-01-07 19:36:53,926] : Create user directory request from : e7cf57a4-eded-4079-8e47-03553c4f8fa4
+[INFO][2022-01-07 19:36:53,938] : User directory successfully created : e7cf57a4-eded-4079-8e47-03553c4f8fa4
+[INFO][2022-01-07 19:36:59,498] : Create user directory request from : 28940383-7a45-4caf-a885-f7499118c27f
+[INFO][2022-01-07 19:36:59,508] : User directory successfully created : 28940383-7a45-4caf-a885-f7499118c27f
+[INFO][2022-01-07 19:38:02,148] : Create user directory request from : d67d07ec-af55-4b66-bb37-e8f597c8aeed
+[INFO][2022-01-07 19:38:02,159] : User directory successfully created : d67d07ec-af55-4b66-bb37-e8f597c8aeed
+[INFO][2022-01-07 19:38:13,602] : Create user directory request from : cb7b592e-71c4-4fd7-8631-4d48cdcef291
+[INFO][2022-01-07 19:38:13,614] : User directory successfully created : cb7b592e-71c4-4fd7-8631-4d48cdcef291
+[INFO][2022-01-07 19:38:55,095] : Create user directory request from : dde5c143-fa37-471e-bfd5-c65131462a99
+[INFO][2022-01-07 19:38:55,106] : User directory successfully created : dde5c143-fa37-471e-bfd5-c65131462a99
+[INFO][2022-01-07 19:39:06,216] : Create user directory request from : 2185ab1f-0258-4c3d-8380-28ed62b131d2
+[INFO][2022-01-07 19:39:06,227] : User directory successfully created : 2185ab1f-0258-4c3d-8380-28ed62b131d2
+[INFO][2022-01-07 19:39:25,271] : Create user directory request from : 3a594093-b3b5-4cd3-a3f7-1ff91b78754f
+[INFO][2022-01-07 19:39:25,282] : User directory successfully created : 3a594093-b3b5-4cd3-a3f7-1ff91b78754f
+[INFO][2022-01-07 19:39:26,882] : Create user directory request from : 435bc8ac-9e11-41c5-b72f-95cfa615a9e5
+[INFO][2022-01-07 19:39:26,894] : User directory successfully created : 435bc8ac-9e11-41c5-b72f-95cfa615a9e5
+[INFO][2022-01-07 19:39:42,374] : Create user directory request from : befa772c-6ea0-45f9-bfe6-3947cf57a762
+[INFO][2022-01-07 19:39:42,385] : User directory successfully created : befa772c-6ea0-45f9-bfe6-3947cf57a762
+[INFO][2022-01-07 19:40:21,920] : Create user directory request from : 2e39bfa1-8e6f-4d99-86bd-c47e9daf184b
+[INFO][2022-01-07 19:40:21,931] : User directory successfully created : 2e39bfa1-8e6f-4d99-86bd-c47e9daf184b
+[INFO][2022-01-07 19:41:03,703] : Create user directory request from : a940899f-d7a9-4950-9a2e-35375d4e6353
+[INFO][2022-01-07 19:41:03,714] : User directory successfully created : a940899f-d7a9-4950-9a2e-35375d4e6353
+[INFO][2022-01-07 19:41:06,021] : Create user directory request from : 6b0c89cd-8d13-41cd-8f5b-caa6bcd8a6b5
+[INFO][2022-01-07 19:41:06,032] : User directory successfully created : 6b0c89cd-8d13-41cd-8f5b-caa6bcd8a6b5
+[INFO][2022-01-07 19:41:23,477] : Create user directory request from : 5e620ea8-e0c1-45fa-a982-dbbb8cfc196d
+[INFO][2022-01-07 19:41:23,489] : User directory successfully created : 5e620ea8-e0c1-45fa-a982-dbbb8cfc196d
+[INFO][2022-01-07 19:43:06,353] : Create user directory request from : 3fae95ce-4c71-4aa9-9123-e69c568cec00
+[INFO][2022-01-07 19:43:06,368] : User directory successfully created : 3fae95ce-4c71-4aa9-9123-e69c568cec00
+[INFO][2022-01-07 19:43:23,399] : Create user directory request from : e6a088ab-1c81-447e-9efe-36d333462f54
+[INFO][2022-01-07 19:43:23,408] : User directory successfully created : e6a088ab-1c81-447e-9efe-36d333462f54
+[INFO][2022-01-07 19:43:46,405] : Create user directory request from : 60fefa02-86aa-4408-8c6d-aebe2f9431bf
+[INFO][2022-01-07 19:43:46,415] : User directory successfully created : 60fefa02-86aa-4408-8c6d-aebe2f9431bf
+[INFO][2022-01-07 19:43:49,402] : Create user directory request from : a750b0b6-b40a-4a24-8202-36d0c11f1d47
+[INFO][2022-01-07 19:43:49,414] : User directory successfully created : a750b0b6-b40a-4a24-8202-36d0c11f1d47
+[INFO][2022-01-07 19:44:34,659] : Create user directory request from : e97c08e6-717a-4136-a254-9ac91f610685
+[INFO][2022-01-07 19:44:34,670] : User directory successfully created : e97c08e6-717a-4136-a254-9ac91f610685
+[INFO][2022-01-07 19:46:52,717] : Create user directory request from : 3dddfb39-8361-4487-b3c8-5ea0ce53feb8
+[INFO][2022-01-07 19:46:52,726] : User directory successfully created : 3dddfb39-8361-4487-b3c8-5ea0ce53feb8
+[INFO][2022-01-07 19:47:28,312] : Create user directory request from : 7beb14e7-d2e4-4b55-9951-bd0056ea9135
+[INFO][2022-01-07 19:47:28,323] : User directory successfully created : 7beb14e7-d2e4-4b55-9951-bd0056ea9135
+[INFO][2022-01-07 19:48:01,186] : Create user directory request from : abb53224-e0d9-4190-bd3e-3509a7654fef
+[INFO][2022-01-07 19:48:01,198] : User directory successfully created : abb53224-e0d9-4190-bd3e-3509a7654fef
+[INFO][2022-01-07 19:48:19,785] : Create user directory request from : 87ce7e0a-7125-4bea-982e-ec03624ab60b
+[INFO][2022-01-07 19:48:19,797] : User directory successfully created : 87ce7e0a-7125-4bea-982e-ec03624ab60b
+[INFO][2022-01-07 19:48:35,663] : Create user directory request from : ce0caff1-2e23-48e4-9c0f-16ff4c7d385a
+[INFO][2022-01-07 19:48:35,674] : User directory successfully created : ce0caff1-2e23-48e4-9c0f-16ff4c7d385a
+[INFO][2022-01-07 19:49:50,303] : Create user directory request from : 12121ae6-dd29-4de0-92f7-8d259708a093
+[INFO][2022-01-07 19:49:50,314] : User directory successfully created : 12121ae6-dd29-4de0-92f7-8d259708a093
+[INFO][2022-01-07 19:50:52,557] : Create user directory request from : 72fe4277-f183-4aab-b46a-4d6925353c8a
+[INFO][2022-01-07 19:50:52,568] : User directory successfully created : 72fe4277-f183-4aab-b46a-4d6925353c8a
+[INFO][2022-01-07 19:51:31,413] : Create user directory request from : 616279ff-b3f4-4ea5-8ac5-f899feaf00b5
+[INFO][2022-01-07 19:51:31,430] : User directory successfully created : 616279ff-b3f4-4ea5-8ac5-f899feaf00b5
+[INFO][2022-01-07 19:51:51,908] : Create user directory request from : d9aba056-a21d-4434-9fd9-d184b22972a1
+[INFO][2022-01-07 19:51:51,923] : User directory successfully created : d9aba056-a21d-4434-9fd9-d184b22972a1
+[INFO][2022-01-07 19:52:23,084] : Create user directory request from : f1a49abd-2692-43f0-8597-9ddcceb750f3
+[INFO][2022-01-07 19:52:23,095] : User directory successfully created : f1a49abd-2692-43f0-8597-9ddcceb750f3
+[INFO][2022-01-07 19:53:06,543] : Create user directory request from : 574a9deb-90eb-45fd-847e-2e97286d1fcf
+[INFO][2022-01-07 19:53:06,556] : User directory successfully created : 574a9deb-90eb-45fd-847e-2e97286d1fcf
+[INFO][2022-01-07 19:53:08,176] : Create user directory request from : 11490878-3da3-4b7a-93fc-f68efcf10041
+[INFO][2022-01-07 19:53:08,186] : User directory successfully created : 11490878-3da3-4b7a-93fc-f68efcf10041
+[INFO][2022-01-07 19:54:27,773] : Create user directory request from : ea47e1d1-1da1-4d20-bed4-173389dff4c0
+[INFO][2022-01-07 19:54:27,785] : User directory successfully created : ea47e1d1-1da1-4d20-bed4-173389dff4c0
+[INFO][2022-01-07 19:54:30,755] : Create user directory request from : 7cfa8d74-07f4-4d90-bd3d-801928554d5f
+[INFO][2022-01-07 19:54:30,766] : User directory successfully created : 7cfa8d74-07f4-4d90-bd3d-801928554d5f
+[INFO][2022-01-07 19:55:00,646] : Create user directory request from : c6df72a1-3449-4785-8329-5eb390768166
+[INFO][2022-01-07 19:55:00,656] : User directory successfully created : c6df72a1-3449-4785-8329-5eb390768166
+[INFO][2022-01-07 19:55:03,666] : Create user directory request from : 3e1e575f-616c-400a-8c82-4ae420ae902a
+[INFO][2022-01-07 19:55:03,677] : User directory successfully created : 3e1e575f-616c-400a-8c82-4ae420ae902a
+[INFO][2022-01-07 19:55:08,587] : Create user directory request from : 4f77db27-7368-46a5-8663-094c1580840a
+[INFO][2022-01-07 19:55:08,599] : User directory successfully created : 4f77db27-7368-46a5-8663-094c1580840a
+[INFO][2022-01-07 19:55:13,071] : Create user directory request from : 856c4a7f-388a-4bbc-b021-78ed936760ae
+[INFO][2022-01-07 19:55:13,082] : User directory successfully created : 856c4a7f-388a-4bbc-b021-78ed936760ae
+[INFO][2022-01-07 19:55:19,369] : Create user directory request from : a322f6d6-66c0-4279-a17e-9450d817d52a
+[INFO][2022-01-07 19:55:19,380] : User directory successfully created : a322f6d6-66c0-4279-a17e-9450d817d52a
+[INFO][2022-01-07 19:55:45,751] : Create user directory request from : ab5dd47e-545d-4ff9-ad5c-b3a1c01c982f
+[INFO][2022-01-07 19:55:45,763] : User directory successfully created : ab5dd47e-545d-4ff9-ad5c-b3a1c01c982f
+[INFO][2022-01-07 19:57:19,132] : Create user directory request from : 5d310b7b-8366-4f68-ab39-a3bcad252f72
+[INFO][2022-01-07 19:57:19,143] : User directory successfully created : 5d310b7b-8366-4f68-ab39-a3bcad252f72
+[INFO][2022-01-07 19:58:41,182] : Create user directory request from : 6422e09b-56b0-40bb-87ad-b5132e51aeab
+[INFO][2022-01-07 19:58:41,193] : User directory successfully created : 6422e09b-56b0-40bb-87ad-b5132e51aeab
+[INFO][2022-01-07 19:59:45,520] : Create user directory request from : bf5c254e-28c4-48c7-b341-ec34fda2f0b0
+[INFO][2022-01-07 19:59:45,532] : User directory successfully created : bf5c254e-28c4-48c7-b341-ec34fda2f0b0
+[INFO][2022-01-09 17:26:52,254] : Create user directory request from : 8fda6138-8aae-4c20-9ff0-12de99521d6b
+[INFO][2022-01-09 17:26:52,266] : User directory successfully created : 8fda6138-8aae-4c20-9ff0-12de99521d6b
+[INFO][2022-01-09 17:28:44,986] : Request From : 8fda6138-8aae-4c20-9ff0-12de99521d6b
+[ERROR][2022-01-09 17:28:50,006] : Error : 10 : Error ocurred while preprocess data
+[ERROR][2022-01-09 17:28:50,007] : Error message : min() arg is an empty sequence
+[INFO][2022-01-09 18:00:34,796] : Create user directory request from : fa6e2932-b21d-4425-a741-7baf9cfb3d6b
+[INFO][2022-01-09 18:00:34,807] : User directory successfully created : fa6e2932-b21d-4425-a741-7baf9cfb3d6b
+[INFO][2022-01-10 08:49:51,272] : Create user directory request from : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:49:51,283] : User directory successfully created : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:51:28,853] : Request From : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:51:39,236] : Successfully finished work : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:52:56,656] : Request From : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:53:05,872] : Successfully finished work : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:53:36,837] : Request From : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:53:47,809] : Successfully finished work : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:54:54,384] : Request From : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 08:55:03,048] : Successfully finished work : e155cc31-1e76-4ab7-ae5d-17b666df59d4
+[INFO][2022-01-10 09:03:29,255] : Create user directory request from : 4befbb8e-66a3-42c4-95c9-b44906f2c317
+[INFO][2022-01-10 09:03:29,264] : User directory successfully created : 4befbb8e-66a3-42c4-95c9-b44906f2c317
+[INFO][2022-01-10 09:04:43,282] : Request From : 4befbb8e-66a3-42c4-95c9-b44906f2c317
+[INFO][2022-01-10 09:04:51,952] : Successfully finished work : 4befbb8e-66a3-42c4-95c9-b44906f2c317
+[INFO][2022-01-10 09:08:08,946] : Create user directory request from : 9a7cdc2c-48f4-48dd-a24c-b4ecefc2fe1f
+[INFO][2022-01-10 09:08:08,954] : User directory successfully created : 9a7cdc2c-48f4-48dd-a24c-b4ecefc2fe1f
+[INFO][2022-01-10 09:08:33,044] : Request From : 9a7cdc2c-48f4-48dd-a24c-b4ecefc2fe1f
+[INFO][2022-01-10 09:08:41,166] : Successfully finished work : 9a7cdc2c-48f4-48dd-a24c-b4ecefc2fe1f
+[INFO][2022-01-10 09:10:15,730] : Create user directory request from : 5c8c535b-1b94-47d8-8333-34e544d21351
+[INFO][2022-01-10 09:10:15,738] : User directory successfully created : 5c8c535b-1b94-47d8-8333-34e544d21351
+[INFO][2022-01-10 09:10:41,447] : Create user directory request from : 1fa016c4-d0dd-4949-8828-1e799e50ac44
+[INFO][2022-01-10 09:10:41,456] : User directory successfully created : 1fa016c4-d0dd-4949-8828-1e799e50ac44
+[INFO][2022-01-10 09:10:42,719] : Create user directory request from : 897a401b-5943-4c56-b529-bcd0801324fa
+[INFO][2022-01-10 09:10:42,726] : User directory successfully created : 897a401b-5943-4c56-b529-bcd0801324fa
+[INFO][2022-01-10 09:11:20,692] : Create user directory request from : 51411f46-4c95-44ae-abb3-6d0c94de812d
+[INFO][2022-01-10 09:11:20,700] : User directory successfully created : 51411f46-4c95-44ae-abb3-6d0c94de812d
+[INFO][2022-01-10 09:11:40,667] : Create user directory request from : 11505523-5c00-4163-a42d-3fc01ad2182e
+[INFO][2022-01-10 09:11:40,674] : User directory successfully created : 11505523-5c00-4163-a42d-3fc01ad2182e
+[INFO][2022-01-10 09:11:57,651] : Create user directory request from : 943c31d3-0d61-4612-b633-c491e67f727a
+[INFO][2022-01-10 09:11:57,657] : User directory successfully created : 943c31d3-0d61-4612-b633-c491e67f727a
+[INFO][2022-01-10 09:12:04,100] : Create user directory request from : e089adfe-8d3f-4e10-9151-958c59a86e44
+[INFO][2022-01-10 09:12:04,108] : User directory successfully created : e089adfe-8d3f-4e10-9151-958c59a86e44
+[INFO][2022-01-10 09:12:13,326] : Create user directory request from : 412828be-a768-4a97-866a-7db6e87991bc
+[INFO][2022-01-10 09:12:13,335] : User directory successfully created : 412828be-a768-4a97-866a-7db6e87991bc
+[INFO][2022-01-10 09:12:33,927] : Create user directory request from : 9b3c06e0-b4ea-43bb-ae75-22ad67963bb2
+[INFO][2022-01-10 09:12:33,935] : User directory successfully created : 9b3c06e0-b4ea-43bb-ae75-22ad67963bb2
+[INFO][2022-01-10 09:12:47,160] : Create user directory request from : eda3e660-ce75-43ee-85f7-8511f0f59d2d
+[INFO][2022-01-10 09:12:47,168] : User directory successfully created : eda3e660-ce75-43ee-85f7-8511f0f59d2d
+[INFO][2022-01-10 09:38:03,507] : Create user directory request from : c108c1b8-6699-4912-87b6-5e07ea52f0ab
+[INFO][2022-01-10 09:38:03,515] : User directory successfully created : c108c1b8-6699-4912-87b6-5e07ea52f0ab

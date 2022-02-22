@@ -1,0 +1,4 @@
+/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/2D-Human-Parsing/demo_imgs/suit.jpg
+/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/2D-Human-Parsing/demo_imgs/skirt.jpg
+/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/2D-Human-Parsing/demo_imgs/coat.jpg
+/home/lab/sda/jsjun/Image_Processing/3D-Try-On/m3d-vton/server/2D-Human-Parsing/demo_imgs/multiperson.jpg
