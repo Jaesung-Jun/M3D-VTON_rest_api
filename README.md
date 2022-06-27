@@ -5,5 +5,7 @@
 
 * M3D-VTON paper: https://arxiv.org/abs/2108.05126
 
+* DEMO front-end web page : https://github.com/TryTwoTop/WTF
+
 ### All copyrights and license are owned by the owner.
 #### Please Visit the above repositories before fork/download this repository and read the license.
